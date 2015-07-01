@@ -1,0 +1,10 @@
+open_with firefox
+ext
+extracthere 
+open_with mpv
+open_with 
+open_with vim
+delete 
+cut
+
+paste 
