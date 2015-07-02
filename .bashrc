@@ -45,6 +45,7 @@ function cl
 
 ###ALIAS
 alias simplerss='python /home/bruno/Documents/GitDevelopment/simpleRSS/main.py'
+alias doom1="prboom -width 1600 -height 870 -iwad ~/.doom/Doom1.WAD"
 alias ls='ls --color=auto -F -lh'
 PS1='[\u@\h \W]\$ '
 alias screenfetch='screenfetch -c 3,15'

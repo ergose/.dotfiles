@@ -4,7 +4,10 @@ extracthere
 open_with mpv
 open_with 
 open_with vim
-delete 
 cut
 
 paste 
+delete 
+copy 
+paste_symlink 
+v

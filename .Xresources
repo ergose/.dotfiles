@@ -58,7 +58,8 @@ URxvt.boldFont: xft:DejaVuSansMono for Powerline:bold:size=9:antialias=true
 #define base0A #f9ee98
 #define base0B #8f9d6a
 #define base0C #afc4db
-#define base0D #7587a6
+!#define base0D #7587a6
+#define base0D #292fe4
 #define base0E #9b859d
 #define base0F #9b703f
 
