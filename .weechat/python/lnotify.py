@@ -75,8 +75,8 @@ def handle_msg(data, pbuffer, date, tags, displayed, highlight, prefix, message)
     buffer_type = weechat.buffer_get_string(pbuffer, "localvar_type")
     away = weechat.buffer_get_string(pbuffer, "localvar_away")
 
-    if pbuffer == weechat.current_buffer():
-        return weechat.WEECHAT_RC_OK
+    #if pbuffer == weechat.current_buffer():
+    #    return weechat.WEECHAT_RC_OK
 
     if away and not notify_away:
         return weechat.WEECHAT_RC_OK
