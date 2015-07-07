@@ -1,0 +1,86 @@
+Apr 06 21:58 : avahi: Service 'Music Player' successfully established.
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/08-O Jardim (com Rey).mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/02-Sete Miras (com Dealema).mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/09-A Noite Tá Lá Fora.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/01-Sente.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/06-Juntos Somos Um.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/13-Aqui Nos Mantemos.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/10-Há Dias (com Mundo).mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/04-Vozes na Cabeça.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/12-Este Beat.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/07-Nada Complicado.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/05-´Sónia.mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/11-Já Chegamos (com Berna).mp3
+Apr 06 21:58 : update: added Rap/Mind Da Gap/2012 - Regresso ao Futuro/03-És Onde Quero Estar (com Sam The Kid).mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/5.Marchem Conosco.mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/1.Sindicato Esta d Volta.mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/7.O Elo Mais Forte.mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/4.Inocência Perdida.mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/2.De Tempos Em Tempos.mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/6.Não ha Crise.mp3
+Apr 06 21:58 : update: added Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/3.Imortais.mp3
+Apr 06 22:00 : avahi: Service 'Music Player' successfully established.
+Apr 06 22:00 : client: [0] opened from [::1]:46770
+Apr 06 22:00 : player: played "Rap/Mind Da Gap/2012 - Regresso ao Futuro/01-Sente.mp3"
+Apr 06 22:01 : client: [0] closed
+Apr 09 02:59 : client: [0] opened from [::1]:56258
+Apr 09 02:59 : avahi: Service 'Music Player' successfully established.
+Apr 09 02:59 : client: [0] closed
+Jul 07 15:38 : errno: Failed to open "/home/bruno/Music/Rap/Mind Da Gap/2012 - Regresso ao Futuro/01-Sente.mp3": No such file or directory
+Jul 07 15:38 : errno: Failed to open "/home/bruno/Music/Rap/Mind Da Gap/2012 - Regresso ao Futuro/01-Sente.mp3": No such file or directory
+Jul 07 15:38 : player: played "Rap/Mind Da Gap/2012 - Regresso ao Futuro/01-Sente.mp3"
+Jul 07 15:38 : client: [0] opened from [::1]:32835
+Jul 07 15:38 : client: [1] opened from 127.0.0.1:59505
+Jul 07 15:38 : client: [0] closed
+Jul 07 15:38 : avahi: Service 'Music Player' successfully established.
+Jul 07 15:38 : client: [2] opened from [::1]:32837
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/01-Sente.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/02-Sete Miras (com Dealema).mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/03-És Onde Quero Estar (com Sam The Kid).mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/04-Vozes na Cabeça.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/05-´Sónia.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/06-Juntos Somos Um.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/07-Nada Complicado.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/08-O Jardim (com Rey).mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/09-A Noite Tá Lá Fora.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/10-Há Dias (com Mundo).mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/11-Já Chegamos (com Berna).mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/12-Este Beat.mp3
+Jul 07 15:39 : update: removing Rap/Mind Da Gap/2012 - Regresso ao Futuro/13-Aqui Nos Mantemos.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/1.Sindicato Esta d Volta.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/2.De Tempos Em Tempos.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/3.Imortais.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/4.Inocência Perdida.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/5.Marchem Conosco.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/6.Não ha Crise.mp3
+Jul 07 15:39 : update: removing Rap/Sindicato Sonoro/Sindicato Sonoro - Nao Há Crise EP (2011)/7.O Elo Mais Forte.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/12. Cold Hearted Man.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/18. Cyberspace.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/08. Ain't No Fun (Waiting Around To Be A Millionare) [original australian release].mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/14. Snake Eye.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/01. High Voltage [original australian release].mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/15. Borrowed Time.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/03. Love Song.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/10. Carry Me Home.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/07. Dirty Deeds Done Dirt Cheap [original australian release].mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/13. Who Made Who [12'' extended mix].mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/16. Down On The Borderline.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/05. Rocker [original australian release].mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/17. Big Gun.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/04. It's A Long Way To The Top (If You Wanna Rock 'N' Roll) [original australian release].mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/09. R.I.P. (Rock In Peace).mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/02. Stick Around.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/11. Crabsody In Blue.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/06. Fling Thing.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/04. Miss Adventure.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/09. Rock the House.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/07. Hard Times.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/03. Rock the Blues Away.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/11. Emission Control.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/02. Play Ball.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/06. Got Some Rock & Roll Thunder.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/08. Baptism By Fire.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/01. Rock or Bust.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/05. Dogs of War.mp3
+Jul 07 15:39 : update: added ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/10. Sweet Candy.mp3
+Jul 07 15:39 : client: [2] closed
