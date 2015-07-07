@@ -16,7 +16,7 @@ exec --no-startup-id unclutter -idle 1 -root -grab &
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 set $mod Mod4
-set $Locker i3lock -i /home/bruno/Pictures/Wallpapers/arch.png
+set $Locker i3lock -i /home/bruno/Pictures/Wallpapers/mysystem.png
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -191,9 +191,9 @@ bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight +10
 bindsym XF86AudioRaiseVolume exec --no-startup-id pulseaudio-ctl up
 bindsym XF86AudioLowerVolume exec --no-startup-id pulseaudio-ctl down
 bindsym XF86AudioMute exec --no-startup-id pulseaudio-ctl mute
-bindsym XF86AudioNext exec --no-startup-id playerctl next
-bindsym XF86AudioPrev exec --no-startup-id playerctl previous
-bindsym XF86AudioPlay exec --no-startup-id playerctl play-pause
+bindsym XF86AudioNext exec --no-startup-id ~/.scripts/playercontrol.sh next
+bindsym XF86AudioPrev exec --no-startup-id ~/.scripts/playercontrol.sh previous 
+bindsym XF86AudioPlay exec --no-startup-id ~/.scripts/playercontrol.sh toggle 
 
 
 
@@ -221,13 +221,13 @@ mode "$mode_system" {
 }
 bindsym $mod+Shift+Insert mode "$mode_system"
 
-set $mode_multimedia Multimedia: Anterior (H), Reproduzir/Pausa (J/K), Seguinte (L)
+set $mode_multimedia Multimedia: Previous (H), Play/Pause (J/K), Next (L)
 mode "$mode_multimedia"
 {
-	bindsym l exec --no-startup-id playerctl next
-	bindsym h exec --no-startup-id playerctl previous
-	bindsym j exec --no-startup-id playerctl play-pause
-	bindsym k exec --no-startup-id playerctl play-pause
+	bindsym l exec --no-startup-id ~/.scripts/playercontrol.sh next
+	bindsym h exec --no-startup-id ~/.scripts/playercontrol.sh previous 
+	bindsym j exec --no-startup-id ~/.scripts/playercontrol.sh toggle
+	bindsym k exec --no-startup-id ~/.scripts/playercontrol.sh toggle
 
 	#back to normal
 	bindsym Escape mode "default"
@@ -245,7 +245,7 @@ mode "$mode_brightness"
 }
 bindsym $mod+Shift+b mode "$mode_brightness";
 
-set $mode_extmonitor Monitor Externo: Esquerda (J), Direita (L), (O) Desligar
+set $mode_extmonitor External Monitor: Left (J), Right (L), (O) Off
 mode "$mode_extmonitor"
 {
     bindsym j exec --no-startup-id .scripts/extmonitor.sh e
@@ -257,7 +257,7 @@ mode "$mode_extmonitor"
 }
 bindsym $mod+p mode "$mode_extmonitor"
 
-set $mode_current_mpd_delete Apagar musica em reprodução? y/n
+set $mode_current_mpd_delete Delete currently playing song? y/n
 mode "$mode_current_mpd_delete"
 {
    bindsym y exec --no-startup-id .scripts/remove_current_mpd.sh; mode "default"
