@@ -54,10 +54,8 @@ alias ixg=".scripts/termbinget.sh"
 alias rms='shred -n 100 -u -v -z'
 #alias player='mpd; ncmpcpp'
 alias fixtime="sudo ntpd -qg"
-alias rasp_ssh_local='ssh bruno@192.168.2.116'
-alias rasp_ssh_net='ssh bruno@ladex.ddns.net'
-alias rasp_sftp_local='sshfs bruno@192.168.2.116:/var/www /home/bruno/Documents/raspberry'
-alias rasp_sftp_net='sshfs bruno@ladex.ddns.net:/var/www /home/bruno/Documents/raspberry'
+alias sftp_vmlampp='sshfs vmuser@192.168.73.131:/var/www /home/bruno/mnt/vm_lampp'
+alias ftp_strangequark='curlftpfs ftp.strangequark.tk /home/bruno/mnt/strangequark -o user=u437760725:z3xoqbd4' 
 alias cups_start='sudo systemctl start org.cups.cupsd.service'
 alias cups_stop='sudo systemctl stop org.cups.cupsd.service'
 alias vime='vim -u .vimencryptrc -x'

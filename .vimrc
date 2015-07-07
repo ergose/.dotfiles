@@ -9,21 +9,15 @@ set hidden "esconder buffers em vez de os fechar
 set tabstop=4 "1 tab sao 4 espacos
 set backspace=indent,eol,start
 set autoindent
-set copyindent
-set smartindent
+filetype plugin indent on
 set shiftwidth=4 "numero de espacos para o autoident
 set number "mostrar sempre a linha
-set showcmd
-set showmatch "mostrar o outro ( ) correspondente
+set showcmd "show current command on bottom
 set hlsearch
 set incsearch
 set ignorecase
 set smartcase
 set smarttab
-"mostar espacos
-autocmd filetype py, py2 set list
-autocmd filetype py, py2 set listchars=tab:>.,trail:.,extends:#,nbsp:.
-"autocmd filetype html,xml set listchars-=tab:>. "nao mostrar espcos em html e xml
 "modo paste
 set pastetoggle=<F2>
 "nao fazer backups
@@ -32,10 +26,11 @@ set noswapfile
 " Auto complete HTML
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
-inoremap <C-a> <C-x><C-o>
-" Fechar a tag automaticamente ao premir <//
-noremap <lt>// </<C-X><C-O>
+autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+
 "--Keybindings
+"close html tags on <//
+inoremap <lt>// </<C-X><C-O>
 "nao deixar usar setas
 map <up> <nop>
 map <down> <nop>
@@ -64,5 +59,8 @@ let g:airline_powerline_fonts = 1
 " Always show bottomline
 set laststatus=2
 
-"Autocomplete
-autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+"Template Vars
+let g:username = 'strang3quark'
+let g:email = 'strang3quark@gmail.com'
+let g:licence = 'GPL v3.0'
+

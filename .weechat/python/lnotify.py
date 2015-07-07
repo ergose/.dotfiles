@@ -75,13 +75,19 @@ def handle_msg(data, pbuffer, date, tags, displayed, highlight, prefix, message)
     buffer_type = weechat.buffer_get_string(pbuffer, "localvar_type")
     away = weechat.buffer_get_string(pbuffer, "localvar_away")
 
-    #if pbuffer == weechat.current_buffer():
-    #    return weechat.WEECHAT_RC_OK
+
+    if pbuffer == weechat.current_buffer() and buffer_type == "private":
+        return weechat.WEECHAT_RC_OK
 
     if away and not notify_away:
         return weechat.WEECHAT_RC_OK
 
     buffer_name = weechat.buffer_get_string(pbuffer, "short_name")
+
+    if "is back on server" in message:
+        return weechat.WEECHAT_RC_OK
+    elif "has quit" in message:
+        return weechat.WEECHAT_RC_OK
 
     if buffer_type == "private" and query:
         notify_user(buffer_name, message)
