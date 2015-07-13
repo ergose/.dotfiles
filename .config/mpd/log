@@ -1099,3 +1099,270 @@ Jul 12 15:44 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Mac
 Jul 12 15:47 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/02 - All The Time.mp3"
 Jul 12 15:51 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/06-burn_halo-stuck_in_a_rut.mp3"
 Jul 12 15:52 : client: [2] closed
+Jul 12 16:28 : client: [0] opened from [::1]:55637
+Jul 12 16:28 : client: [1] opened from 127.0.0.1:36916
+Jul 12 16:28 : client: [0] closed
+Jul 12 16:28 : client: [2] opened from [::1]:55639
+Jul 12 16:28 : avahi: Service 'Music Player' successfully established.
+Jul 12 16:38 : avahi: Client Disconnected, will reconnect shortly
+Jul 13 02:31 : avahi: Service 'Music Player' successfully established.
+Jul 13 02:31 : client: [0] opened from [::1]:49613
+Jul 13 02:31 : client: [1] opened from 127.0.0.1:54509
+Jul 13 02:31 : client: [0] closed
+Jul 13 02:31 : client: [2] opened from [::1]:49615
+Jul 13 02:33 : client: [3] opened from 192.168.2.254:53918
+Jul 13 02:33 : client: [4] opened from 192.168.2.254:58090
+Jul 13 02:33 : client: [5] opened from 192.168.2.254:49768
+Jul 13 02:33 : client: [6] opened from 192.168.2.254:48062
+Jul 13 02:33 : client: [3] closed
+Jul 13 02:33 : client: [4] closed
+Jul 13 02:34 : client: [5] closed
+Jul 13 02:34 : client: [6] closed
+Jul 13 02:34 : client: [7] opened from 192.168.2.254:50184
+Jul 13 02:34 : client: [8] opened from 192.168.2.254:50548
+Jul 13 02:34 : client: [9] opened from 192.168.2.254:37607
+Jul 13 02:34 : client: [10] opened from 192.168.2.254:58800
+Jul 13 02:34 : client: [8] closed
+Jul 13 02:34 : client: [7] closed
+Jul 13 02:36 : player: played "Driving 1/Audio - Nil By Mouth - Original Mix.mp3"
+Jul 13 02:37 : client: [9] closed
+Jul 13 02:38 : client: [11] opened from 192.168.2.254:52585
+Jul 13 02:38 : client: [12] opened from 192.168.2.254:54634
+Jul 13 02:38 : client: [10] closed
+Jul 13 02:38 : player: played "Driving 1/Avicii - Levels - Skrillex Remix.mp3"
+Jul 13 02:39 : client: [11] closed
+Jul 13 02:42 : player: played "Driving 1/Bombay Bicycle Club - Shuffle.mp3"
+Jul 13 02:43 : client: [12] closed
+Jul 13 02:43 : client: [13] opened from 192.168.2.254:41112
+Jul 13 02:43 : client: [14] opened from 192.168.2.254:50467
+Jul 13 02:43 : client: [15] opened from 192.168.2.254:35602
+Jul 13 02:43 : client: [16] opened from 192.168.2.254:52660
+Jul 13 02:43 : client: [14] closed
+Jul 13 02:43 : client: [13] closed
+Jul 13 02:43 : player: played "Driving 1/Calvin Harris Ellie Goulding - I Need Your Love.mp3"
+Jul 13 02:45 : client: [15] closed
+Jul 13 02:48 : player: played "Driving 1/Capital Cities - Safe And Sound.mp3"
+Jul 13 02:49 : client: [16] closed
+Jul 13 02:50 : client: [17] opened from 192.168.2.254:36454
+Jul 13 02:50 : client: [18] opened from 192.168.2.254:51757
+Jul 13 02:50 : player: played "Driving 1/Cold War Kids - Miracle Mile.mp3"
+Jul 13 02:51 : client: [17] closed
+Jul 13 02:55 : player: played "Driving 1/Daft Punk Pharrell Williams - Lose Yourself to Dance.mp3"
+Jul 13 02:55 : client: [19] opened from 192.168.2.254:47892
+Jul 13 02:55 : client: [20] opened from 192.168.2.254:53992
+Jul 13 02:55 : player: played "Driving 1/Darude - Sandstorm.mp3"
+Jul 13 02:56 : player: played "Driving 1/Deorro - Yee [Mix Cut] - Original Mix.mp3"
+Jul 13 02:56 : player: played "Driving 1/Disclosure Sam Smith - Latch.mp3"
+Jul 13 02:56 : client: [18] closed
+Jul 13 02:56 : player: played "Driving 1/Don Diablo Example - Hooligans - Noisia Remix.mp3"
+Jul 13 02:56 : player: played "Driving 1/Ellie Goulding - Burn.mp3"
+Jul 13 02:56 : player: played "Driving 1/Ellie Goulding - Starry Eyed.mp3"
+Jul 13 02:56 : player: played "Driving 1/Example - Changed The Way You Kiss Me.mp3"
+Jul 13 02:56 : player: played "Driving 1/Deorro - Yee [Mix Cut] - Original Mix.mp3"
+Jul 13 02:56 : player: played "Driving 1/Cold War Kids - Miracle Mile.mp3"
+Jul 13 02:56 : player: played "Driving 1/Faul - Happy Endings.mp3"
+Jul 13 02:57 : player: played "Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/10 Ecstacy (feat. Hurts).mp3"
+Jul 13 02:57 : player: played "Driving 1/Flux Pavilion - I Still Can't Stop.mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Chinchilla.mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Love Is All I Got (feat. Crystal Fighters).mp3"
+Jul 13 02:57 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/12 - Kids Again (Critikal Miami Sunrise Remix).mp3"
+Jul 13 02:57 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/05 - Only Human.mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3"
+Jul 13 02:57 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3"
+Jul 13 02:57 : player: played "Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/09. Kavinsky - Nightcall.mp3"
+Jul 13 02:57 : player: played "Driving 1/Pharrell Williams - Happy.mp3"
+Jul 13 02:58 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/07 - Can't Face the World Alone.mp3"
+Jul 13 02:58 : player: played "Driving 1/Wilkinson - Afterglow.mp3"
+Jul 13 02:58 : player: played "Driving 1/Audio - Nil By Mouth - Original Mix.mp3"
+Jul 13 02:58 : player: played "Driving 1/Lana Del Rey Cedric Gervais - Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix.mp3"
+Jul 13 02:58 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/11 - Kids Again (Zed Bias Remix).mp3"
+Jul 13 02:58 : player: played "Driving 1/Linkin Park Page Hamilton - All For Nothing (feat. Page Hamilton).mp3"
+Jul 13 02:58 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/10 - Kids Again (Dimension Remix).mp3"
+Jul 13 02:59 : client: [19] closed
+Jul 13 03:00 : client: [20] closed
+Jul 13 03:01 : client: [21] opened from 192.168.2.254:38591
+Jul 13 03:01 : client: [22] opened from 192.168.2.254:37037
+Jul 13 03:01 : client: [23] opened from 192.168.2.254:59204
+Jul 13 03:01 : client: [24] opened from 192.168.2.254:35208
+Jul 13 03:01 : client: [22] closed
+Jul 13 03:01 : client: [21] closed
+Jul 13 03:01 : player: played "Driving 1/Calvin Harris Alesso Hurts - Under Control.mp3"
+Jul 13 03:01 : player: played "Driving 1/Disclosure Sam Smith - Latch.mp3"
+Jul 13 03:01 : player: played "Driving 1/Example - Changed The Way You Kiss Me.mp3"
+Jul 13 03:01 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/03 - One Last Breath.mp3"
+Jul 13 03:02 : client: [23] closed
+Jul 13 03:02 : client: [24] closed
+Jul 13 03:02 : client: [25] opened from 192.168.2.254:41174
+Jul 13 03:02 : client: [26] opened from 192.168.2.254:50596
+Jul 13 03:02 : client: [27] opened from 192.168.2.254:50603
+Jul 13 03:02 : client: [28] opened from 192.168.2.254:51539
+Jul 13 03:02 : client: [26] closed
+Jul 13 03:02 : client: [25] closed
+Jul 13 03:03 : player: played "Driving 1/Florence + The Machine - Spectrum (Say My Name) - Calvin Harris Remix.mp3"
+Jul 13 03:03 : client: [27] closed
+Jul 13 03:03 : client: [28] closed
+Jul 13 03:03 : client: [29] opened from 192.168.2.254:57286
+Jul 13 03:03 : client: [30] opened from 192.168.2.254:47726
+Jul 13 03:03 : client: [31] opened from 192.168.2.254:34975
+Jul 13 03:03 : client: [32] opened from 192.168.2.254:35021
+Jul 13 03:03 : client: [30] closed
+Jul 13 03:03 : client: [29] closed
+Jul 13 03:04 : client: [31] closed
+Jul 13 03:06 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/12-burn_halo-bonus_track.mp3"
+Jul 13 03:07 : client: [32] closed
+Jul 13 03:10 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/07-burn_halo-give_me_a_sign.mp3"
+Jul 13 03:13 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/10 - Happy Ending.mp3"
+Jul 13 03:16 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/05 - 80's Comedown Machine.mp3"
+Jul 13 03:19 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/08 - Partners in Crime.mp3"
+Jul 13 03:24 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/08-burn_halo-dakota.mp3"
+Jul 13 03:28 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/06-burn_halo-stuck_in_a_rut.mp3"
+Jul 13 03:31 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/03-burn_halo-stranded.mp3"
+Jul 13 03:35 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/05-burn_halo-alone.mp3"
+Jul 13 03:39 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/07 - Slow Animals.mp3"
+Jul 13 03:42 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/02 - All The Time.mp3"
+Jul 13 03:46 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/03 - One Way Trigger.mp3"
+Jul 13 03:51 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/04-burn_halo-threw_it_all_away.mp3"
+Jul 13 03:55 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/11 - Call It Fate Call It Karma.mp3"
+Jul 13 03:58 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/09 - Chances.mp3"
+Jul 13 04:02 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/02-burn_halo-up_from_the_ashes.mp3"
+Jul 13 04:07 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/01-burn_halo-tear_it_down.mp3"
+Jul 13 04:12 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/10-burn_halo-i_wont_back_down.mp3"
+Jul 13 04:16 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/01 - Tap Out.mp3"
+Jul 13 04:19 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/09-burn_halo-rest_my_soul.mp3"
+Jul 13 04:24 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/06 - 50 50.mp3"
+Jul 13 04:28 : player: played "Rock/[www.Cpasbien.me] The Strokes - Comedown Machine (2013)/04 - Welcome to Japan.mp3"
+Jul 13 04:32 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/11-burn_halo-shine.mp3"
+Jul 13 10:21 : client: [33] opened from 192.168.2.254:51536
+Jul 13 10:21 : client: [34] opened from 192.168.2.254:36238
+Jul 13 10:22 : client: [33] closed
+Jul 13 10:22 : client: [34] closed
+Jul 13 13:04 : client: [2] closed
+Jul 13 16:25 : client: [1] closed
+Jul 13 18:10 : client: [35] opened from [::1]:49704
+Jul 13 18:10 : client: [35] closed
+Jul 13 18:10 : client: [36] opened from 127.0.0.1:54600
+Jul 13 18:10 : client: [37] opened from [::1]:49706
+Jul 13 18:10 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/01-burn_halo-tear_it_down.mp3"
+Jul 13 18:11 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/08-burn_halo-dakota.mp3"
+Jul 13 18:12 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/04-burn_halo-threw_it_all_away.mp3"
+Jul 13 18:13 : player: played "Rock/Burn_Halo-Up_From_The_Ashes-2011-CR/03-burn_halo-stranded.mp3"
+Jul 13 18:17 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Orion.mp3"
+Jul 13 18:28 : client: [37] closed
+Jul 13 18:30 : client: [36] closed
+Jul 13 18:31 : client: [38] opened from [::1]:49707
+Jul 13 18:31 : client: [38] closed
+Jul 13 18:31 : client: [39] opened from 127.0.0.1:54603
+Jul 13 18:31 : client: [40] opened from [::1]:49709
+Jul 13 18:31 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Ebb & Flow (feat. Tasha Baxter).mp3"
+Jul 13 18:39 : player: played "Rock/Arcade Fire/Arcade Fire - Reflektor.mp3"
+Jul 13 18:48 : client: [40] closed
+Jul 13 19:03 : avahi: Service 'Music Player' successfully established.
+Jul 13 19:03 : client: [0] opened from [::1]:41983
+Jul 13 19:03 : client: [1] opened from 127.0.0.1:55017
+Jul 13 19:03 : client: [0] closed
+Jul 13 19:03 : client: [2] opened from [::1]:41985
+Jul 13 19:03 : player: played "Rock/Arcade Fire/Arcade Fire - The Suburbs.mp3"
+Jul 13 19:05 : player: played "Rock/Arcade Fire/Arcade Fire - Reflektor.mp3"
+Jul 13 19:10 : player: played "Rock/Arcade Fire/Arcade Fire - The Suburbs.mp3"
+Jul 13 19:16 : player: played "Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/01 Faith.mp3"
+Jul 13 19:22 : player: played "Driving 1/Netsky Darrison - Escape.mp3"
+Jul 13 19:26 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/03 - One More Day (Stay with Me).mp3"
+Jul 13 19:31 : player: played "Driving 1/Martin Garrix - Animals.mp3"
+Jul 13 19:35 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/02 - Full Eclipse.mp3"
+Jul 13 19:38 : player: played "Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/08 Summer.mp3"
+Jul 13 19:43 : player: played "Driving 1/Pendulum - Propane Nightmares.mp3"
+Jul 13 19:46 : player: played "Driving 1/The Wanted - Chasing The Sun.mp3"
+Jul 13 19:51 : player: played "Driving 1/Alvaro Joey Dale - Ready for Action - Original Mix.mp3"
+Jul 13 19:55 : client: [2] closed
+Jul 13 19:55 : client: [3] opened from [::1]:42877
+Jul 13 19:56 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Orion.mp3"
+Jul 13 20:08 : player: played "Driving 1/Noisia - Deception.mp3"
+Jul 13 20:11 : player: played "Driving 1/Thomas Newson - Pallaroid - Original Mix.mp3"
+Jul 13 20:15 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Fiasco.mp3"
+Jul 13 20:16 : client: [3] closed
+Jul 13 20:18 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/01 - New Friends.mp3"
+Jul 13 20:19 : client: [4] opened from [::1]:43302
+Jul 13 20:23 : player: played "Driving 1/Deorro - Lose It.mp3"
+Jul 13 20:25 : client: [5] opened from [::1]:43304
+Jul 13 20:25 : client: [6] opened from [::1]:43305
+Jul 13 20:25 : player: played "Driving 1/Faul & Wad Ad Pnau - Changes - Original Mix.mp3"
+Jul 13 20:25 : player: played "Driving 1/Faul & Wad Ad Pnau - Changes - Original Mix.mp3"
+Jul 13 20:26 : player: played "Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/11 Pray To God (feat. HAIM).mp3"
+Jul 13 20:27 : client: [7] opened from 192.168.42.130:59704
+Jul 13 20:28 : client: [7] closed
+Jul 13 20:29 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Love Is All I Got (feat. Crystal Fighters).mp3"
+Jul 13 20:30 : client: [8] opened from 192.168.42.130:59714
+Jul 13 20:30 : client: [8] closed
+Jul 13 20:31 : client: [9] opened from 192.168.42.130:59719
+Jul 13 20:31 : client: [9] closed
+Jul 13 20:31 : client: [10] opened from 192.168.42.130:59720
+Jul 13 20:31 : client: [10] closed
+Jul 13 20:32 : client: [11] opened from 192.168.42.130:59737
+Jul 13 20:32 : client: [11] closed
+Jul 13 20:32 : client: [12] opened from 192.168.42.130:59738
+Jul 13 20:32 : client: [12] closed
+Jul 13 20:33 : client: [13] opened from 192.168.42.130:59757
+Jul 13 20:33 : client: [13] closed
+Jul 13 20:33 : client: [14] opened from 192.168.42.130:59758
+Jul 13 20:33 : client: [14] closed
+Jul 13 20:33 : client: [15] opened from 192.168.42.130:59759
+Jul 13 20:33 : player: played "Driving 1/Noisia - Deception.mp3"
+Jul 13 20:33 : client: [15] closed
+Jul 13 20:33 : client: [16] opened from 192.168.42.130:59761
+Jul 13 20:33 : player: played "Driving 1/Netsky Darrison - Escape.mp3"
+Jul 13 20:33 : client: [16] closed
+Jul 13 20:33 : client: [17] opened from 192.168.42.130:59762
+Jul 13 20:33 : player: played "Driving 1/Pendulum - Watercolour.mp3"
+Jul 13 20:33 : client: [17] closed
+Jul 13 20:33 : client: [18] opened from 192.168.42.130:59763
+Jul 13 20:33 : client: [18] closed
+Jul 13 20:33 : client: [19] opened from 192.168.42.130:59764
+Jul 13 20:33 : client: [19] closed
+Jul 13 20:33 : client: [20] opened from 192.168.42.130:59765
+Jul 13 20:33 : player: played "Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/08. Kavinsky - Deadcruiser.mp3"
+Jul 13 20:33 : client: [20] closed
+Jul 13 20:34 : client: [21] opened from 192.168.42.130:59766
+Jul 13 20:34 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3"
+Jul 13 20:34 : player: played "Driving 1/Fort Knox Five - Insight - A Skillz Remix.mp3"
+Jul 13 20:34 : client: [22] opened from 192.168.42.130:59767
+Jul 13 20:34 : player: played "Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/12. Kavinsky - Roadgame.mp3"
+Jul 13 20:34 : client: [22] closed
+Jul 13 20:35 : client: [23] opened from [::1]:43306
+Jul 13 20:35 : player: played "Driving 1/Fort Knox Five - Insight - A Skillz Remix.mp3"
+Jul 13 20:35 : client: [23] closed
+Jul 13 20:36 : client: [24] opened from 192.168.42.130:59768
+Jul 13 20:36 : player: played "Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/12. Kavinsky - Roadgame.mp3"
+Jul 13 20:36 : client: [24] closed
+Jul 13 20:36 : client: [25] opened from 192.168.42.130:59769
+Jul 13 20:36 : player: played "Driving 1/Fort Knox Five - Insight - A Skillz Remix.mp3"
+Jul 13 20:36 : client: [25] closed
+Jul 13 20:36 : client: [26] opened from 192.168.42.130:59770
+Jul 13 20:36 : player: played "Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/12. Kavinsky - Roadgame.mp3"
+Jul 13 20:36 : client: [26] closed
+Jul 13 20:36 : client: [27] opened from 192.168.42.130:59771
+Jul 13 20:36 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - In the Bin.mp3"
+Jul 13 20:36 : client: [27] closed
+Jul 13 20:36 : client: [21] closed
+Jul 13 20:42 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Lonely Mountain.mp3"
+Jul 13 20:44 : client: [28] opened from 192.168.42.130:59922
+Jul 13 20:44 : client: [28] closed
+Jul 13 20:45 : client: [29] opened from [::1]:43342
+Jul 13 20:45 : client: [29] closed
+Jul 13 20:46 : player: played "Driving 1/Calvin Harris John Newman - Blame.mp3"
+Jul 13 20:47 : client: [30] opened from 192.168.42.130:59924
+Jul 13 21:05 : client: [31] opened from 192.168.42.130:59936
+Jul 13 21:05 : client: [31] closed
+Jul 13 21:07 : player: played "Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/10 - Take Me as I Am.mp3"
+Jul 13 21:12 : player: played "Driving 1/Thomas Newson - Pallaroid - Original Mix.mp3"
+Jul 13 21:16 : player: played "Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/05 Slow Acid.mp3"
+Jul 13 21:20 : client: [30] closed
+Jul 13 21:20 : player: played "Driving 1/Pendulum - Propane Nightmares.mp3"
+Jul 13 21:20 : player: played "Electronic/Feed Me – Calamari Tuesday/Feed Me - Chinchilla.mp3"
+Jul 13 21:24 : player: played "Hot Action Cop - Listen Up! (2014)/01 - House of Pain.mp3"
+Jul 13 21:27 : player: played "Hot Action Cop - Listen Up! (2014)/02 - Jen.mp3"
+Jul 13 21:31 : player: played "Hot Action Cop - Listen Up! (2014)/03 - Second Hand Cigarette.mp3"
+Jul 13 21:35 : player: played "Hot Action Cop - Listen Up! (2014)/04 - Girl On the Train.mp3"
+Jul 13 21:38 : player: played "Hot Action Cop - Listen Up! (2014)/05 - Picture Me.mp3"

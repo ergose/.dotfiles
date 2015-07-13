@@ -1,0 +1,23 @@
+sw_volume: 100
+audio_device_state:1:My Pulse Output
+audio_device_state:1:my_fifo
+state: play
+current: 5
+time: 57.376000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Hot Action Cop - Listen Up! (2014)/01 - House of Pain.mp3
+1:Hot Action Cop - Listen Up! (2014)/02 - Jen.mp3
+2:Hot Action Cop - Listen Up! (2014)/03 - Second Hand Cigarette.mp3
+3:Hot Action Cop - Listen Up! (2014)/04 - Girl On the Train.mp3
+4:Hot Action Cop - Listen Up! (2014)/05 - Picture Me.mp3
+5:Hot Action Cop - Listen Up! (2014)/06 - Lights Out.mp3
+6:Hot Action Cop - Listen Up! (2014)/07 - Fishkill.mp3
+7:Hot Action Cop - Listen Up! (2014)/08 - Pull the Trigger.mp3
+playlist_end
