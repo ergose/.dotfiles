@@ -14,16 +14,10 @@ case "$TERM" in
 xterm*|rxvt*|screen*)
     PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME}: ${PWD}\007"'
 
-    # Show the currently running command in the terminal title:
-    # http://www.davidpashley.com/articles/xterm-titles-with-bash.html
     show_command_in_title_bar()
     {
         case "$BASH_COMMAND" in
             *\033]0*)
-                # The command is trying to set the title bar as well;
-                # this is most likely the execution of $PROMPT_COMMAND.
-                # In any case nested escapes confuse the terminal, so don't
-                # output them.
                 ;;
             *)
                 echo -ne "\033]0;${BASH_COMMAND}\007"
@@ -44,7 +38,6 @@ function cl
 
 
 PS1='[\u@\h \W]\$ '
-export BROWSER=firefox
 
 ###ALIAS
 alias simplerss='python /home/bruno/Documents/GitDevelopment/simpleRSS/main.py'
@@ -54,8 +47,7 @@ alias screenfetch='screenfetch -c 3,15'
 alias ix="curl -F 'f:1=<-' ix.io"
 alias ixg=".scripts/termbinget.sh"
 alias rms='shred -n 100 -u -v -z'
-#alias player='mpd; ncmpcpp'
-alias fixtime="sudo ntpd -qg"
+alias player='mpd; ncmpcpp'
 alias sftp_vmlampp='sshfs vmuser@192.168.73.131:/var/www /home/bruno/mnt/vm_lampp'
 alias ftp_strangequark='curlftpfs ftp.strangequark.tk /home/bruno/mnt/strangequark -o user=u437760725:z3xoqbd4' 
 alias cups_start='sudo systemctl start org.cups.cupsd.service'
