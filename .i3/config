@@ -203,6 +203,7 @@ bindsym Print exec .scripts/screenshot.sh
 #move current workspace to external monitor
 bindsym $mod+Tab move workspace to output right
 bindsym $mod+Shift+comma exec .scripts/caffeine.sh
+bindsym $mod+Shift+period exec .scripts/lidswitch.sh
 bindsym XF86TouchpadToggle exec .scripts/mousetoggle.sh
 
 #MODES

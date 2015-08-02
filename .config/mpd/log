@@ -2864,3 +2864,1328 @@ Jul 23 18:16 : player: played "Rock/Billy Talent/2006 - Billy Talent II/01-Falle
 Jul 23 18:20 : player: played "Rock/Them Crooked Vultures/Them Crooked Vultures - Mind Eraser, No Chaser.mp3"
 Jul 23 18:26 : player: played "Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/03 - Harvester of Sorrow.mp3"
 Jul 23 18:29 : player: played "Rock/Slash/Slash - World On Fire (2014)/10. Withered Delilah.mp3"
+Jul 23 18:33 : player: played "Rock/The Strokes/Comedown Machine (2013)/04 - Welcome to Japan.mp3"
+Jul 23 18:36 : player: played "Rock/Arctic Monkeys/2013 - AM/09-Why'd You Only Call Me When You're High .mp3"
+Jul 23 18:36 : avahi: Client Disconnected, will reconnect shortly
+Jul 23 21:43 : avahi: Service 'Music Player' successfully established.
+Jul 23 21:43 : client: [0] opened from 127.0.0.1:48092
+Jul 23 21:43 : client: [1] opened from 127.0.0.1:48093
+Jul 23 21:43 : client: [0] closed
+Jul 23 21:43 : client: [2] opened from [::1]:42542
+Jul 23 21:43 : player: played "Rock/Arctic Monkeys/2013 - AM/09-Why'd You Only Call Me When You're High .mp3"
+Jul 23 21:44 : client: [3] opened from [::1]:42543
+Jul 23 21:44 : player: played "Rock/Arctic Monkeys/2013 - AM/09-Why'd You Only Call Me When You're High .mp3"
+Jul 23 21:44 : client: [3] closed
+Jul 23 21:44 : client: [4] opened from [::1]:42544
+Jul 23 21:44 : player: played "Rock/Hellyeah - Blood for Blood/01 - Sangre por Sangre (Blood for Blood).mp3"
+Jul 23 21:44 : client: [4] closed
+Jul 23 21:44 : client: [5] opened from [::1]:42545
+Jul 23 21:44 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/04 - Nothing Else Matters.mp3"
+Jul 23 21:44 : client: [5] closed
+Jul 23 21:44 : client: [6] opened from [::1]:42546
+Jul 23 21:44 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/10. Carry Me Home.mp3"
+Jul 23 21:44 : client: [6] closed
+Jul 23 21:44 : client: [7] opened from [::1]:42547
+Jul 23 21:44 : player: played "Rock/Trapt - Headstrong (2011)/16 - Headstrong (Acoustic Version).mp3"
+Jul 23 21:44 : client: [7] closed
+Jul 23 21:44 : client: [8] opened from [::1]:42548
+Jul 23 21:44 : player: played "Rock/Black City/Black City - Fire (M. Mikhaylov).mp3"
+Jul 23 21:44 : client: [8] closed
+Jul 23 21:49 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/17. Big Gun.mp3"
+Jul 23 21:53 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/13. Who Made Who [12'' extended mix].mp3"
+Jul 23 21:57 : player: played "Rock/Saint Asonia/Saint Asonia - Better Place.mp3"
+Jul 23 22:05 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/08. Ain't No Fun (Waiting Around To Be A Millionare) [original australian release].mp3"
+Jul 23 22:08 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/03-burn_halo-stranded.mp3"
+Jul 23 22:12 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/06-burn_halo-stuck_in_a_rut.mp3"
+Jul 23 22:15 : client: [2] closed
+Jul 23 22:15 : client: [9] opened from [::1]:42753
+Jul 23 22:16 : player: played "Rock/Volbeat/ - Guitar Gangsters & Cadillac Blood/06-Maybellene I Hofteholder.mp3"
+Jul 23 22:22 : player: played "Rock/Slash/Slash - World On Fire (2014)/09. Beneath The Savage Sun.mp3"
+Jul 23 22:26 : player: played "Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/15-Phoenix.mp3"
+Jul 23 22:30 : player: played "Rock/Arctic Monkeys/2013 - AM/03-One For the Road.mp3"
+Jul 23 22:34 : player: played "Rock/Slash/Slash - World On Fire (2014)/15. The Dissident.mp3"
+Jul 23 22:37 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/08 - Fatal error.mp3"
+Jul 23 22:40 : player: played "Rock/Royal Blood - Royal Blood/02 Come On Over.mp3"
+Jul 23 22:43 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/01 - Life Burns!.mp3"
+Jul 23 22:47 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/10 - Toreador.mp3"
+Jul 23 22:52 : player: played "Hot Action Cop - Listen Up! (2014)/06 - Lights Out.mp3"
+Jul 23 22:56 : player: played "Rock/Arctic Monkeys/2013 - AM/06-No. 1 Party Anthem.mp3"
+Jul 23 23:00 : player: played "Rock/Jack White/Jack White - Would You Fight For My Love (J. Arfeeva).mp3"
+Jul 23 23:02 : client: [10] opened from [::1]:43304
+Jul 23 23:02 : player: played "Rock/Electric Boys/Starflight United (2014)/06. Ain't No Gettin' Over You.mp3"
+Jul 23 23:02 : client: [10] closed
+Jul 23 23:02 : client: [11] opened from [::1]:43305
+Jul 23 23:02 : player: played "Rock/Apocalyptica/2010 - 7th Symphony/01 - At the Gates of Manala.mp3"
+Jul 23 23:02 : client: [11] closed
+Jul 23 23:02 : client: [12] opened from [::1]:43306
+Jul 23 23:02 : player: played "Rock/Trapt - Headstrong (2011)/12 - Patience (Demo).mp3"
+Jul 23 23:02 : client: [12] closed
+Jul 23 23:07 : player: played "Rock/Mundo Cão/Mundo Cão - Ordena Que Te Ame.mp3"
+Jul 23 23:12 : player: played "Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/12 Far and Away.mp3"
+Jul 23 23:15 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/02 - From Out Of Nowhere.mp3"
+Jul 23 23:19 : player: played "Rock/Trapt - Headstrong (2011)/04 - These Walls (2011 Version).mp3"
+Jul 23 23:22 : player: played "Rock/Slash/Slash - World On Fire (2014)/14. Avalon.mp3"
+Jul 23 23:25 : client: [13] opened from [::1]:44131
+Jul 23 23:25 : player: played "Rock/Apocalyptica/2000 - Cult/02 - Struggle.mp3"
+Jul 23 23:25 : client: [13] closed
+Jul 23 23:28 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/10. Sweet Candy.mp3"
+Jul 23 23:32 : player: played "Rock/Black Stone Cherry/2006 - Black Stone Cherry/03-Lonely Train.mp3"
+Jul 23 23:33 : client: [14] opened from [::1]:44445
+Jul 23 23:33 : client: [14] closed
+Jul 24 00:15 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/03 - Distraction.mp3"
+Jul 24 00:15 : player: played "Hot Action Cop - Listen Up! (2014)/01 - House of Pain.mp3"
+Jul 24 00:19 : player: played "Rock/Interpol/Our Love (2007)/04 - The Heinrich Maneuver - (Musicfire.in).mp3"
+Jul 24 00:22 : player: played "Rock/The_Brew-Control-2014-404/09-the_brew-play.mp3"
+Jul 24 00:22 : player: played "Rock/Velvet Revolver/2007 - Libertad/03-Get Out The Door.mp3"
+Jul 24 00:22 : player: played "Rock/Electric Boys/Starflight United (2014)/11. Starflight United.mp3"
+Jul 24 00:22 : player: played "Rock/The Offspring/2012 - Days Go By/02-Secrets From The Underground.mp3"
+Jul 24 00:22 : player: played "Rock/Apocalyptica/2000 - Cult/07 - Beyond Time.mp3"
+Jul 24 00:22 : player: played "Rock/Wolfmother/2005 - Wolfmother/06-Joker & The Thief.mp3"
+Jul 24 00:22 : player: played "Rock/The Black Keys/2010 - Brothers/03-Tighten Up.mp3"
+Jul 24 00:22 : player: played "Rock/Slash/2010 - Slash/12-slash-starlight_feat._myless_kennedy.mp3"
+Jul 24 00:22 : player: played "Rock/Wolfmother/2005 - Wolfmother/02-Woman.mp3"
+Jul 24 00:22 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/16. Down On The Borderline.mp3"
+Jul 24 00:22 : player: played "Rock/Apocalyptica/2003-  Reflections/06 - Cohkka.mp3"
+Jul 24 00:26 : player: played "Rock/Interpol/Our Love (2007)/03 - The Scale - (Musicfire.in).mp3"
+Jul 24 00:30 : player: played "Rock/Sister Sin/Sister Sin - Fight Song.mp3"
+Jul 24 00:33 : player: played "Rock/Interpol/Our Love (2007)/11 - The Lighthouse - (Musicfire.in).mp3"
+Jul 24 00:33 : player: played "Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/09 Not for Me.mp3"
+Jul 24 00:33 : player: played "Rock/Apocalyptica/2000 - Cult/07 - Beyond Time.mp3"
+Jul 24 00:37 : player: played "Rock/Saint Asonia/Saint Asonia - Better Place.mp3"
+Jul 24 00:37 : player: played "Rock/Royal Blood - Royal Blood/07 Loose Change.mp3"
+Jul 24 00:37 : player: played "Rock/Slash/2010 - Slash/14-slash-were_all_gonna_die_feat._iggy_pop.mp3"
+Jul 24 00:37 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/03 - Distraction.mp3"
+Jul 24 00:37 : player: played "Rock/Electric Boys/Starflight United (2014)/09. Lucy Fur.mp3"
+Jul 24 00:37 : player: played "Rock/Apocalyptica/2010 - 7th Symphony/03 - Not Strong Enough.mp3"
+Jul 24 00:37 : player: played "Rock/Slash/Slash - World On Fire (2014)/07. Stone Blind.mp3"
+Jul 24 00:37 : player: played "Rock/2013 - The Paradigm Shift/04-Spike In My Veins.mp3"
+Jul 24 00:37 : player: played "Rock/Apocalyptica/2010 - 7th Symphony/06 - Broken Pieces.mp3"
+Jul 24 00:37 : player: played "Rock/Bush/2011 - The Sea Of Memories/06-Baby Come Home.mp3"
+Jul 24 00:37 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/06-burn_halo-stuck_in_a_rut.mp3"
+Jul 24 00:40 : player: played "Rock/Modest Mouse/Modest Mouse - Lampshades On Fire.mp3"
+Jul 24 00:42 : player: played "Rock/Bobaflex/Bobaflex - Vampire.mp3"
+Jul 24 00:42 : player: played "Rock/Hellyeah - Blood for Blood/04 - Moth.mp3"
+Jul 24 00:42 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/04 - Nothing Else Matters.mp3"
+Jul 24 00:42 : player: played "Rock/Volbeat/2008 - Guitar Gangsters & Cadillac Blood/08-Still Counting.mp3"
+Jul 24 00:42 : player: played "Rock/Apocalyptica/2000 - Cult/05 - In Memoriam.mp3"
+Jul 24 00:42 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/07. Hard Times.mp3"
+Jul 24 00:42 : player: played "Rock/Interpol/Our Love (2007)/05 - Mammoth - (Musicfire.in).mp3"
+Jul 24 00:42 : player: played "Rock/Royal Blood - Royal Blood/10 Better Strangers.mp3"
+Jul 24 00:42 : player: played "Rock/Interpol/Our Love (2007)/05 - Mammoth - (Musicfire.in).mp3"
+Jul 24 00:42 : player: played "Rock/Royal Blood - Royal Blood/10 Better Strangers.mp3"
+Jul 24 00:42 : player: played "Rock/Interpol/Our Love (2007)/05 - Mammoth - (Musicfire.in).mp3"
+Jul 24 00:42 : player: played "Rock/Royal Blood - Royal Blood/10 Better Strangers.mp3"
+Jul 24 00:42 : player: played "Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/01 Apocalyptic Love.mp3"
+Jul 24 00:43 : player: played "Rock/Arctic Monkeys/2013 - AM/03-One For the Road.mp3"
+Jul 24 00:43 : player: played "Rock/Interpol/Our Love (2007)/04 - The Heinrich Maneuver - (Musicfire.in).mp3"
+Jul 24 00:43 : player: played "Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/03 - Harvester of Sorrow.mp3"
+Jul 24 00:43 : player: played "Rock/Arctic Monkeys/2007 - Favourite Worst Nightmare [Bonus Tracks]/01-Brainstorm.mp3"
+Jul 24 00:43 : player: played "Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/02 - Master of Puppets.mp3"
+Jul 24 00:44 : player: played "Rock/The Strokes/Comedown Machine (2013)/02 - All The Time.mp3"
+Jul 24 00:44 : player: played "Rock/Apocalyptica/2000 - Cult/03 - Romance.mp3"
+Jul 24 00:44 : player: played "Rock/Slash/Slash - World On Fire (2014)/04. Wicked Stone.mp3"
+Jul 24 00:44 : player: played "Rock/Arctic Monkeys/2013 - AM/08-Fireside.mp3"
+Jul 24 00:44 : player: played "Rock/Furyon/2012 - Gravitas/07-Fear Alone.mp3"
+Jul 24 00:45 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/08. School for Young Ladies.mp3"
+Jul 24 00:47 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/10-burn_halo-i_wont_back_down.mp3"
+Jul 24 00:47 : player: played "Rock/The Black Keys/2011 - El Camino/01-Lonely Boy.mp3"
+Jul 24 00:47 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/01 - Life Burns!.mp3"
+Jul 24 00:49 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/11-burn_halo-shine.mp3"
+Jul 24 00:51 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-My Blue Supreme.mp3"
+Jul 24 00:51 : player: played "Rock/Arcade Fire/Arcade Fire - Reflektor.mp3"
+Jul 24 00:53 : player: played "Rock/The Strokes/Comedown Machine (2013)/04 - Welcome to Japan.mp3"
+Jul 24 00:53 : player: played "Rock/Klepht/Klepht - Videoclip Idade da Estupidez.mp3"
+Jul 24 00:53 : player: played "Rock/Apocalyptica/2007 - Words Collide/02 - Grace.mp3"
+Jul 24 00:53 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/10 - Ruska.mp3"
+Jul 24 00:53 : player: played "Rock/Slash/Slash - World On Fire (2014)/11. Battleground.mp3"
+Jul 24 00:55 : player: played "Rock/Electric Boys/Starflight United (2014)/05. Tramp.mp3"
+Jul 24 00:55 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/05 - Refuse-Resist.mp3"
+Jul 24 00:55 : player: played "Hot Action Cop - Listen Up! (2014)/04 - Girl On the Train.mp3"
+Jul 24 00:55 : player: played "Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/09-Cosmonaut.mp3"
+Jul 24 00:55 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/06. Fling Thing.mp3"
+Jul 24 00:55 : player: played "Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/07 We Will Roam.mp3"
+Jul 24 00:57 : client: [15] opened from [::1]:44944
+Jul 24 00:57 : player: played "Rock/Our Lady Peace/Our Lady Peace - Superman's Dead.mp3"
+Jul 24 00:57 : client: [15] closed
+Jul 24 00:57 : client: [16] opened from [::1]:44945
+Jul 24 00:57 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/03. Love Song.mp3"
+Jul 24 00:57 : client: [16] closed
+Jul 24 00:57 : client: [17] opened from [::1]:44946
+Jul 24 00:57 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/07 - Inquisition Symphony.mp3"
+Jul 24 00:57 : client: [17] closed
+Jul 24 00:57 : client: [18] opened from [::1]:44947
+Jul 24 00:57 : player: played "Rock/Saint Asonia/Saint Asonia - Blow Me Wide Open (D. Akulshin).mp3"
+Jul 24 00:57 : client: [18] closed
+Jul 24 00:57 : client: [19] opened from [::1]:44948
+Jul 24 00:57 : player: played "Rock/The Fashion/The Fashion - Roller Disco Inferno (P. Mikhaylov).mp3"
+Jul 24 00:57 : client: [19] closed
+Jul 24 00:58 : client: [20] opened from [::1]:44949
+Jul 24 00:58 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/09-burn_halo-rest_my_soul.mp3"
+Jul 24 00:58 : client: [20] closed
+Jul 24 00:58 : client: [21] opened from [::1]:44952
+Jul 24 00:58 : player: played "Rock/Bloodhound Gang/-The Ballad of Chasey Lain.mp3"
+Jul 24 00:58 : client: [21] closed
+Jul 24 00:58 : client: [22] opened from [::1]:44953
+Jul 24 00:58 : player: played "Rock/Black City/Black City - Fire (M. Mikhaylov).mp3"
+Jul 24 00:58 : client: [22] closed
+Jul 24 00:58 : client: [23] opened from [::1]:44954
+Jul 24 00:58 : player: played "Rock/Bush/1999 - Science Of Things, The/03-The Chemicals Between Us.mp3"
+Jul 24 00:58 : client: [23] closed
+Jul 24 00:58 : client: [24] opened from [::1]:44955
+Jul 24 00:58 : player: played "Rock/Bush/2001 - Golden State/01-solutions.mp3"
+Jul 24 00:58 : client: [24] closed
+Jul 24 00:58 : client: [25] opened from [::1]:44956
+Jul 24 00:58 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/09. Strangle You.mp3"
+Jul 24 00:58 : client: [25] closed
+Jul 24 01:02 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/01-burn_halo-tear_it_down.mp3"
+Jul 24 01:02 : player: played "Rock/Slash/Slash - World On Fire (2014)/05. 30 Years To Life.mp3"
+Jul 24 01:02 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/03. Rock the Blues Away.mp3"
+Jul 24 01:02 : player: played "Rock/Wolfmother/2005 - Wolfmother/06-Joker & The Thief.mp3"
+Jul 24 01:02 : player: played "Rock/Fingertight/2003 - In the Name of Progress/01-Fear In Me.mp3"
+Jul 24 01:02 : player: played "Rock/Interpol/Our Love (2007)/10 - Wrecking Ball - (Musicfire.in).mp3"
+Jul 24 01:02 : player: played "Rock/Apocalyptica/2010 - 7th Symphony/02 - End of Me.mp3"
+Jul 24 01:03 : player: played "Rock/Apocalyptica/2000 - Cult/09 - Kaamos.mp3"
+Jul 24 01:03 : player: played "Rock/Trapt - Headstrong (2011)/09 - Everything To Lose (Live).mp3"
+Jul 24 01:03 : player: played "Rock/Hellyeah - Blood for Blood/01 - Sangre por Sangre (Blood for Blood).mp3"
+Jul 24 01:03 : player: played "Rock/Billy Talent/2003 - Billy Talent/04-Line & Sinker.mp3"
+Jul 24 01:03 : player: played "Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/07-Cosmic Egg.mp3"
+Jul 24 01:06 : player: played "Rock/The_Brew-Control-2014-404/01-the_brew-repeat.mp3"
+Jul 24 01:10 : player: played "Rock/Volbeat/2010 - Beyond Hell-Above Heaven (Bonus Track Version)/09-A Warrior's Call.mp3"
+Jul 24 01:13 : player: played "Rock/Apocalyptica/2000 - Cult/01 - Path.mp3"
+Jul 24 01:16 : player: played "Rock/Apocalyptica/2000 - Cult/02 - Struggle.mp3"
+Jul 24 01:20 : player: played "Rock/Royal Blood - Royal Blood/03 Figure It Out.mp3"
+Jul 24 01:23 : player: played "Rock/The Smashing Pumpkins/The Smashing Pumpkins - Today.mp3"
+Jul 24 01:27 : client: [26] opened from [::1]:45078
+Jul 24 01:27 : player: played "Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/06 - Creeping Death.mp3"
+Jul 24 01:27 : client: [26] closed
+Jul 24 01:27 : client: [27] opened from [::1]:45079
+Jul 24 01:27 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/02-burn_halo-up_from_the_ashes.mp3"
+Jul 24 01:27 : client: [27] closed
+Jul 24 01:27 : client: [28] opened from [::1]:45080
+Jul 24 01:27 : player: played "Rock/Apocalyptica/2003-  Reflections/12 - Toreador II.mp3"
+Jul 24 01:27 : client: [28] closed
+Jul 24 01:27 : client: [29] opened from [::1]:45093
+Jul 24 01:27 : player: played "Rock/The_Brew-Control-2014-404/02-the_brew-eject.mp3"
+Jul 24 01:27 : client: [29] closed
+Jul 24 01:27 : client: [30] opened from [::1]:45094
+Jul 24 01:27 : player: played "Rock/Slash/2010 - Slash/08-slash-doctor_alibi_feat._lemmy_kilmeister.mp3"
+Jul 24 01:27 : client: [30] closed
+Jul 24 01:27 : client: [31] opened from [::1]:45095
+Jul 24 01:27 : player: played "Rock/Fire Red Empress/Fire Red Empress - Left Unspoken.mp3"
+Jul 24 01:27 : client: [31] closed
+Jul 24 01:27 : client: [32] opened from [::1]:45096
+Jul 24 01:27 : player: played "Rock/The_Brew-Control-2014-404/03-the_brew-mute.mp3"
+Jul 24 01:27 : client: [32] closed
+Jul 24 01:27 : client: [33] opened from [::1]:45097
+Jul 24 01:27 : player: played "Rock/Electric Boys/Starflight United (2014)/08. Gangin' Up.mp3"
+Jul 24 01:27 : client: [33] closed
+Jul 24 01:27 : client: [34] opened from [::1]:45098
+Jul 24 01:27 : player: played "Rock/Apocalyptica/2007 - Words Collide/11 - Peace.mp3"
+Jul 24 01:27 : client: [34] closed
+Jul 24 01:28 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/17. Big Gun.mp3"
+Jul 24 01:28 : player: played "Rock/Slash/Slash - World On Fire (2014)/02. Shadow Life.mp3"
+Jul 24 01:33 : player: played "Rock/Interpol/Our Love (2007)/06 - Pace Is the Trick - (Musicfire.in).mp3"
+Jul 24 01:34 : player: played "Rock/Apocalyptica/2005 - Apocalyptica/08 - Fatal error.mp3"
+Jul 24 01:36 : client: [35] opened from [::1]:45138
+Jul 24 01:36 : player: played "Rock/Apocalyptica/2010 - 7th Symphony/10 - Rage of Poseidon.mp3"
+Jul 24 01:36 : client: [35] closed
+Jul 24 01:41 : player: played "Rock/Slash/2010 - Slash/03-slash-beautiful_dangerous_feat._fergie.mp3"
+Jul 24 01:44 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/02. Never Coming Back.mp3"
+Jul 24 01:47 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/05. Rocker [original australian release].mp3"
+Jul 24 01:50 : client: [36] opened from [::1]:45189
+Jul 24 01:50 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/02. Stick Around.mp3"
+Jul 24 01:50 : client: [36] closed
+Jul 24 01:50 : client: [37] opened from [::1]:45190
+Jul 24 01:50 : player: played "Rock/The_Brew-Control-2014-404/08-the_brew-stop.mp3"
+Jul 24 01:50 : client: [37] closed
+Jul 24 01:50 : client: [38] opened from [::1]:45191
+Jul 24 01:50 : player: played "Rock/2013 - The Paradigm Shift/12-Tell Me What You Want.mp3"
+Jul 24 01:50 : client: [38] closed
+Jul 24 01:51 : client: [39] opened from [::1]:45192
+Jul 24 01:51 : player: played "Rock/Jack White/The Raconteurs - Salute Your Solution.mp3"
+Jul 24 01:51 : client: [39] closed
+Jul 24 01:51 : client: [40] opened from [::1]:45193
+Jul 24 01:51 : player: played "Rock/Shinedown/2010 - Diamond Eyes (Boom-Lay Boom-Lay Boom)/01-Diamond Eyes (Boom-Lay Boom-Lay Boom).mp3"
+Jul 24 01:51 : client: [40] closed
+Jul 24 01:51 : client: [41] opened from [::1]:45194
+Jul 24 01:51 : player: played "Rock/Bush/2011 - The Sea Of Memories/09-I Believe In You.mp3"
+Jul 24 01:51 : client: [41] closed
+Jul 24 01:51 : client: [42] opened from [::1]:45195
+Jul 24 01:51 : player: played "Rock/Apocalyptica/2003-  Reflections/13 - Epilogue (Relief).mp3"
+Jul 24 01:51 : client: [42] closed
+Jul 24 01:51 : client: [43] opened from [::1]:45196
+Jul 24 01:51 : player: played "Rock/The Offspring/2012 - Days Go By/02-Secrets From The Underground.mp3"
+Jul 24 01:51 : client: [43] closed
+Jul 24 01:51 : client: [44] opened from [::1]:45197
+Jul 24 01:51 : player: played "Rock/Apocalyptica/2010 - 7th Symphony/08 - Bring Them to Ligh.mp3"
+Jul 24 01:51 : client: [44] closed
+Jul 24 01:51 : client: [45] opened from [::1]:45198
+Jul 24 01:51 : player: played "Rock/Crossfade/Crossfade - Cold.mp3"
+Jul 24 01:51 : client: [45] closed
+Jul 24 01:51 : client: [46] opened from [::1]:45199
+Jul 24 01:51 : player: played "Rock/Hellyeah - Blood for Blood/09 - Say When.mp3"
+Jul 24 01:51 : client: [46] closed
+Jul 24 01:51 : client: [47] opened from [::1]:45200
+Jul 24 01:51 : player: played "Rock/Jack White/The White Stripes - Fell in Love With a Girl.mp3"
+Jul 24 01:51 : client: [47] closed
+Jul 24 01:51 : client: [48] opened from [::1]:45201
+Jul 24 01:51 : player: played "Rock/Phoenix/phoenix - 1901.mp3"
+Jul 24 01:51 : client: [48] closed
+Jul 24 01:51 : client: [49] opened from [::1]:45202
+Jul 24 01:51 : player: played "Rock/Slash/2010 - Slash/02-slash-crucify_the_dead_feat._ozzy_osbourne.mp3"
+Jul 24 01:51 : client: [49] closed
+Jul 24 01:51 : client: [50] opened from [::1]:45203
+Jul 24 01:51 : player: played "Rock/Furyon/2012 - Gravitas/06-Voodoo Me.mp3"
+Jul 24 01:51 : client: [50] closed
+Jul 24 01:51 : client: [51] opened from [::1]:45204
+Jul 24 01:51 : player: played "Rock/Volbeat/2013 - Outlaw Gentlemen & Shady Ladies/07-The Hangman's Body Count.mp3"
+Jul 24 01:51 : client: [51] closed
+Jul 24 01:54 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Anywhere.mp3"
+Jul 24 01:57 : player: played "Rock/Wolfmother/2005 - Wolfmother/11-Withcraft.mp3"
+Jul 24 01:58 : player: played "Rock/The Strokes/Comedown Machine (2013)/05 - 80's Comedown Machine.mp3"
+Jul 24 01:58 : player: played "Rock/Apocalyptica/2007 - Words Collide/06 - Stroke.mp3"
+Jul 24 01:59 : player: played "Rock/Bush/2001 - Golden State/09-land of the living.mp3"
+Jul 24 01:59 : player: played "Rock/Black City/Black City - Summertime (V. Yavorsky).mp3"
+Jul 24 01:59 : player: played "Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/14 Carolina (Bonus Track).mp3"
+Jul 24 02:02 : player: played "Rock/Balla/Balla - Montra (V. Krasnov).mp3"
+Jul 24 02:05 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/04. Miss Adventure.mp3"
+Jul 24 02:09 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/02 - From Out Of Nowhere.mp3"
+Jul 24 02:12 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/05. Dogs of War.mp3"
+Jul 24 02:16 : player: played "Rock/Hellyeah - Blood for Blood/07 - Gift.mp3"
+Jul 24 02:18 : client: [52] opened from [::1]:45785
+Jul 24 02:18 : player: played "Rock/Apocalyptica/2003-  Reflections/06 - Cohkka.mp3"
+Jul 24 02:18 : client: [52] closed
+Jul 24 02:18 : client: [53] opened from [::1]:45786
+Jul 24 02:18 : player: played "Rock/Them Crooked Vultures/Them Crooked Vultures - Mind Eraser, No Chaser.mp3"
+Jul 24 02:18 : client: [53] closed
+Jul 24 02:18 : client: [54] opened from [::1]:45787
+Jul 24 02:18 : player: played "Rock/Furyon/2012 - Gravitas/05-New Way Of Living.mp3"
+Jul 24 02:18 : client: [54] closed
+Jul 24 02:18 : client: [55] opened from [::1]:45788
+Jul 24 02:18 : player: played "Rock/Volbeat/ - Guitar Gangsters & Cadillac Blood/06-Maybellene I Hofteholder.mp3"
+Jul 24 02:18 : client: [55] closed
+Jul 24 02:18 : client: [56] opened from [::1]:45789
+Jul 24 02:18 : player: played "Rock/Interpol/Our Love (2007)/07 - All Fired Up - (Musicfire.in).mp3"
+Jul 24 02:18 : client: [56] closed
+Jul 24 02:19 : client: [57] opened from [::1]:45790
+Jul 24 02:19 : client: [57] closed
+Jul 24 02:19 : client: [58] opened from [::1]:45791
+Jul 24 02:19 : client: [58] closed
+Jul 24 02:19 : client: [59] opened from [::1]:45792
+Jul 24 02:19 : player: played "Rock/Apocalyptica/2000 - Cult/04 - Pray!.mp3"
+Jul 24 02:19 : client: [59] closed
+Jul 24 02:19 : player: played "Rock/Apocalyptica/2000 - Cult/04 - Pray!.mp3"
+Jul 24 02:22 : player: played "Rock/Interpol/Our Love (2007)/07 - All Fired Up - (Musicfire.in).mp3"
+Jul 24 02:26 : player: played "Rock/Interpol/Our Love (2007)/04 - The Heinrich Maneuver - (Musicfire.in).mp3"
+Jul 24 02:29 : player: played "Rock/Arctic Monkeys/2013 - AM/02-R U Mine .mp3"
+Jul 24 02:29 : client: [60] opened from [::1]:45952
+Jul 24 02:29 : player: played "Rock/Apocalyptica/2007 - Words Collide/09 - Burn.mp3"
+Jul 24 02:29 : client: [60] closed
+Jul 24 02:30 : client: [61] opened from [::1]:45953
+Jul 24 02:30 : player: played "Rock/Hellyeah - Blood for Blood/09 - Say When.mp3"
+Jul 24 02:30 : client: [61] closed
+Jul 24 02:33 : player: played "Rock/Saint Asonia/Saint Asonia - Better Place.mp3"
+Jul 24 02:35 : player: played "Rock/Apocalyptica/2003-  Reflections/11 - Pandemonium.mp3"
+Jul 24 02:40 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/08 - Fade To Black.mp3"
+Jul 24 02:44 : player: played "Rock/Crossfade/Crossfade - No Giving Up.mp3"
+Jul 24 02:49 : player: played "Rock/Slash/Slash - World On Fire (2014)/04. Wicked Stone.mp3"
+Jul 24 02:52 : player: played "Rock/Apocalyptica/1998 - Inquisition Symphony/02 - From Out Of Nowhere.mp3"
+Jul 24 02:59 : player: played "Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/03 - Harvester of Sorrow.mp3"
+Jul 24 03:03 : player: played "Rock/Hellyeah - Blood for Blood/01 - Sangre por Sangre (Blood for Blood).mp3"
+Jul 24 03:08 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/16. Down On The Borderline.mp3"
+Jul 24 03:11 : player: played "Rock/Royal Blood - Royal Blood/08 Careless.mp3"
+Jul 24 03:14 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/09. Strangle You.mp3"
+Jul 24 03:16 : player: played "Rock/Electric Boys/Starflight United (2014)/04. Life Is So Electric.mp3"
+Jul 24 03:17 : client: [62] opened from [::1]:46140
+Jul 24 03:17 : client: [62] closed
+Jul 24 03:18 : client: [9] closed
+Jul 24 14:47 : client: [63] opened from [::1]:47972
+Jul 24 14:47 : player: played "Rock/Apocalyptica/2000 - Cult/12 - Until It Sleeps.mp3"
+Jul 24 14:47 : player: played "Rock/Arctic Monkeys/2013 - AM/01-Do I Wanna Know .mp3"
+Jul 24 14:47 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/10. Rogue.mp3"
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/03 - I'm Not Jesus.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/04 - Ion.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/09 - Burn.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/01 - Worlds Collide.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/06 - Stroke.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/07 - Last Hope.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/08 - I Don't Care.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/05 - Helden.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/10 - S.O.S (Anything But Love).mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/11 - Peace.mp3
+Jul 24 14:47 : update: added Apocalyptica/2007 - Words Collide/02 - Grace.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/01 - At the Gates of Manala.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/07 - On the Rooftop with Quasimodo.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/03 - Not Strong Enough.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/04 - 2010.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/08 - Bring Them to Ligh.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/06 - Broken Pieces.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/10 - Rage of Poseidon.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/09 - Sacra.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/05 - Beautiful.mp3
+Jul 24 14:47 : update: added Apocalyptica/2010 - 7th Symphony/02 - End of Me.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/06 - Cohkka.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/11 - Pandemonium.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/01 - Prologue (Apprehension).mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/05 - Drive.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/03 - Faraway.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/10 - Cortége.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/09 - Heat.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/13 - Epilogue (Relief).mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/02 - No Education.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/12 - Toreador II.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/08 - Resurrection.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/04 - Somewhere Around Nothing.mp3
+Jul 24 14:47 : update: added Apocalyptica/2003-  Reflections/07 - Conclusion.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/05 - Misconstruction.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/07 - Farewell.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/06 - Fisheye.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/08 - Fatal error.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/03 - Distraction.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/04 - Bittersweet.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/02 - Quutamo.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/10 - Ruska.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/09 - BetrayalForgiveness.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/11 - Deathzone.mp3
+Jul 24 14:47 : update: added Apocalyptica/2005 - Apocalyptica/01 - Life Burns!.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/03 - For Whom The Bell Tolls.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/09 - Domination.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/10 - Toreador.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/05 - Refuse-Resist.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/04 - Nothing Else Matters.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/01 - Harmageddon.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/06 - M.B..mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/08 - Fade To Black.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/11 - One.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/07 - Inquisition Symphony.mp3
+Jul 24 14:47 : update: added Apocalyptica/1998 - Inquisition Symphony/02 - From Out Of Nowhere.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/01 - Enter Sandman.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/07 - Wherever I May Roam.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/04 - The Unforgiven.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/05 - Sad But True.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/08 - Welcome Home (Sanitarium).mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/02 - Master of Puppets.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/06 - Creeping Death.mp3
+Jul 24 14:47 : update: added Apocalyptica/1996 - Plays Metallica By Four Cellos/03 - Harvester of Sorrow.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/08 - Hope.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/07 - Beyond Time.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/10 - Coma.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/09 - Kaamos.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/01 - Path.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/03 - Romance.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/02 - Struggle.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/06 - Hyperventilation.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/04 - Pray!.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/11 - Hall of the Mountain King.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/12 - Until It Sleeps.mp3
+Jul 24 14:47 : update: added Apocalyptica/2000 - Cult/05 - In Memoriam.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/01 - Enter Sandman.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/02 - Master of Puppets.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/03 - Harvester of Sorrow.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/04 - The Unforgiven.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/05 - Sad But True.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/06 - Creeping Death.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/07 - Wherever I May Roam.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1996 - Plays Metallica By Four Cellos/08 - Welcome Home (Sanitarium).mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/01 - Harmageddon.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/02 - From Out Of Nowhere.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/03 - For Whom The Bell Tolls.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/04 - Nothing Else Matters.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/05 - Refuse-Resist.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/06 - M.B..mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/07 - Inquisition Symphony.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/08 - Fade To Black.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/09 - Domination.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/10 - Toreador.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/1998 - Inquisition Symphony/11 - One.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/01 - Path.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/02 - Struggle.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/03 - Romance.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/04 - Pray!.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/05 - In Memoriam.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/06 - Hyperventilation.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/07 - Beyond Time.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/08 - Hope.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/09 - Kaamos.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/10 - Coma.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/11 - Hall of the Mountain King.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2000 - Cult/12 - Until It Sleeps.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/01 - Prologue (Apprehension).mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/02 - No Education.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/03 - Faraway.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/04 - Somewhere Around Nothing.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/05 - Drive.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/06 - Cohkka.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/07 - Conclusion.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/08 - Resurrection.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/09 - Heat.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/10 - Cortége.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/11 - Pandemonium.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/12 - Toreador II.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2003-  Reflections/13 - Epilogue (Relief).mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/01 - Life Burns!.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/02 - Quutamo.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/03 - Distraction.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/04 - Bittersweet.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/05 - Misconstruction.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/06 - Fisheye.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/07 - Farewell.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/08 - Fatal error.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/09 - BetrayalForgiveness.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/10 - Ruska.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2005 - Apocalyptica/11 - Deathzone.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/01 - Worlds Collide.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/02 - Grace.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/03 - I'm Not Jesus.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/04 - Ion.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/05 - Helden.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/06 - Stroke.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/07 - Last Hope.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/08 - I Don't Care.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/09 - Burn.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/10 - S.O.S (Anything But Love).mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2007 - Words Collide/11 - Peace.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/01 - At the Gates of Manala.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/02 - End of Me.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/03 - Not Strong Enough.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/04 - 2010.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/05 - Beautiful.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/06 - Broken Pieces.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/07 - On the Rooftop with Quasimodo.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/08 - Bring Them to Ligh.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/09 - Sacra.mp3
+Jul 24 14:47 : update: removing Rock/Apocalyptica/2010 - 7th Symphony/10 - Rage of Poseidon.mp3
+Jul 24 14:47 : player: played "Rock/2013 - The Paradigm Shift/02-Love & Meth.mp3"
+Jul 24 14:47 : client: [64] opened from [::1]:47973
+Jul 24 14:47 : player: played "Rock/Trapt - Headstrong (2011)/05 - Made Of Glass (2011 Version).mp3"
+Jul 24 14:47 : client: [64] closed
+Jul 24 14:49 : client: [65] opened from [::1]:48003
+Jul 24 14:49 : client: [65] closed
+Jul 24 15:12 : player: played "Rock/Black City/Black City - Here Comes The Rain.mp3"
+Jul 24 15:16 : player: played "Rock/Jack White/The Raconteurs - Steady As She Goes.mp3"
+Jul 24 15:20 : player: played "Rock/Interpol/Our Love (2007)/06 - Pace Is the Trick - (Musicfire.in).mp3"
+Jul 24 15:25 : client: [66] opened from [::1]:49538
+Jul 24 15:25 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/11. Crabsody In Blue.mp3"
+Jul 24 15:25 : client: [66] closed
+Jul 24 15:25 : client: [67] opened from [::1]:49539
+Jul 24 15:25 : player: played "Rock/Furyon/2012 - Gravitas/03-Souvenirs.mp3"
+Jul 24 15:25 : client: [67] closed
+Jul 24 15:25 : client: [68] opened from [::1]:49540
+Jul 24 15:25 : player: played "Rock/Five Finger Death Punch/2011 - American Capitalist [Deluxe Edition]/15-100 Ways To Hate (Remix).mp3"
+Jul 24 15:25 : client: [68] closed
+Jul 24 15:25 : client: [69] opened from [::1]:49541
+Jul 24 15:25 : client: [69] closed
+Jul 24 15:51 : avahi: Client Disconnected, will reconnect shortly
+Jul 31 21:53 : errno: Failed to open "/home/bruno/Music/Rock/The_Brew-Control-2014-404/09-the_brew-play.mp3": No such file or directory
+Jul 31 21:53 : errno: Failed to open "/home/bruno/Music/Rock/The_Brew-Control-2014-404/09-the_brew-play.mp3": No such file or directory
+Jul 31 21:53 : player: played "Rock/The_Brew-Control-2014-404/09-the_brew-play.mp3"
+Jul 31 21:53 : client: [0] opened from [::1]:41381
+Jul 31 21:53 : client: [1] opened from [::1]:41382
+Jul 31 21:53 : client: [1] closed
+Jul 31 21:53 : client: [2] opened from 127.0.0.1:38946
+Jul 31 21:53 : avahi: Service 'Music Player' successfully established.
+Jul 31 21:53 : client: [0] closed
+Jul 31 21:55 : client: [3] opened from [::1]:41430
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/01 - Enter Sandman.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/02 - Master of Puppets.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/03 - Harvester of Sorrow.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/04 - The Unforgiven.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/05 - Sad But True.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/06 - Creeping Death.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/07 - Wherever I May Roam.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1996 - Plays Metallica By Four Cellos/08 - Welcome Home (Sanitarium).mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/01 - Harmageddon.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/02 - From Out Of Nowhere.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/03 - For Whom The Bell Tolls.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/04 - Nothing Else Matters.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/05 - Refuse-Resist.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/06 - M.B..mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/07 - Inquisition Symphony.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/08 - Fade To Black.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/09 - Domination.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/10 - Toreador.mp3
+Jul 31 21:55 : update: updating Apocalyptica/1998 - Inquisition Symphony/11 - One.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/01 - Path.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/02 - Struggle.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/03 - Romance.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/04 - Pray!.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/05 - In Memoriam.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/06 - Hyperventilation.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/07 - Beyond Time.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/08 - Hope.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/09 - Kaamos.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/10 - Coma.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/11 - Hall of the Mountain King.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2000 - Cult/12 - Until It Sleeps.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/01 - Prologue (Apprehension).mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/02 - No Education.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/03 - Faraway.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/04 - Somewhere Around Nothing.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/05 - Drive.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/06 - Cohkka.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/07 - Conclusion.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/08 - Resurrection.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/09 - Heat.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/10 - Cortége.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/11 - Pandemonium.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/12 - Toreador II.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2003-  Reflections/13 - Epilogue (Relief).mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/01 - Life Burns!.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/02 - Quutamo.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/03 - Distraction.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/04 - Bittersweet.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/05 - Misconstruction.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/06 - Fisheye.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/07 - Farewell.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/08 - Fatal error.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/09 - BetrayalForgiveness.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/10 - Ruska.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2005 - Apocalyptica/11 - Deathzone.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/01 - Worlds Collide.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/02 - Grace.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/03 - I'm Not Jesus.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/04 - Ion.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/05 - Helden.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/06 - Stroke.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/07 - Last Hope.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/08 - I Don't Care.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/09 - Burn.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/10 - S.O.S (Anything But Love).mp3
+Jul 31 21:55 : update: updating Apocalyptica/2007 - Words Collide/11 - Peace.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/01 - At the Gates of Manala.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/02 - End of Me.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/03 - Not Strong Enough.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/04 - 2010.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/05 - Beautiful.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/06 - Broken Pieces.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/07 - On the Rooftop with Quasimodo.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/08 - Bring Them to Ligh.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/09 - Sacra.mp3
+Jul 31 21:55 : update: updating Apocalyptica/2010 - 7th Symphony/10 - Rage of Poseidon.mp3
+Jul 31 21:55 : update: removing Driving 1/Mr. Probz - Waves - Robin Schulz Radio Edit.mp3
+Jul 31 21:55 : update: updating Driving 1/Linkin Park Page Hamilton - All For Nothing (feat. Page Hamilton).mp3
+Jul 31 21:55 : update: updating Driving 1/Mark Ronson Bruno Mars - Uptown Funk.mp3
+Jul 31 21:55 : update: updating Driving 1/Maroon 5 - Animals.mp3
+Jul 31 21:55 : update: updating Driving 1/Maroon 5 - Maps.mp3
+Jul 31 21:55 : update: updating Driving 1/Martin Garrix - Animals.mp3
+Jul 31 21:55 : update: updating Driving 1/Naughty Boy Sam Smith - La La La.mp3
+Jul 31 21:55 : update: updating Driving 1/Netsky Darrison - Escape.mp3
+Jul 31 21:55 : update: updating Driving 1/Ninja Kore - Defenders - Original Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Ninja Kore - I Wanna Rock - Original Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Noisia - Deception.mp3
+Jul 31 21:55 : update: updating Driving 1/OneRepublic - Counting Stars.mp3
+Jul 31 21:55 : update: updating Driving 1/Pendulum - Propane Nightmares.mp3
+Jul 31 21:55 : update: updating Driving 1/Don Diablo Example - Hooligans - Noisia Remix.mp3
+Jul 31 21:55 : update: updating Driving 1/Ellie Goulding - Burn.mp3
+Jul 31 21:55 : update: updating Driving 1/Ellie Goulding - Starry Eyed.mp3
+Jul 31 21:55 : update: updating Driving 1/Example - 10 Million People - Extended Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Example - Changed The Way You Kiss Me.mp3
+Jul 31 21:55 : update: updating Driving 1/Example - Kickstarts - Radio Edit.mp3
+Jul 31 21:55 : update: updating Driving 1/Example - New Friends.mp3
+Jul 31 21:55 : update: updating Driving 1/Faul & Wad Ad Pnau - Changes - Original Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Faul - Happy Endings.mp3
+Jul 31 21:55 : update: updating Driving 1/Disclosure Sam Smith - Latch.mp3
+Jul 31 21:55 : update: updating Driving 1/Feed Me - Lonely Mountain.mp3
+Jul 31 21:55 : update: updating Driving 1/Pendulum - Watercolour.mp3
+Jul 31 21:55 : update: updating Driving 1/Pendulum - Witchcraft.mp3
+Jul 31 21:55 : update: updating Driving 1/Pentatonix - Daft Punk.mp3
+Jul 31 21:55 : update: updating Driving 1/Pharrell Williams - Happy.mp3
+Jul 31 21:55 : update: updating Driving 1/Pharrell Williams - Marilyn Monroe.mp3
+Jul 31 21:55 : update: updating Driving 1/Rudimental Ella Eyre - Waiting All Night (feat. Ella Eyre).mp3
+Jul 31 21:55 : update: updating Driving 1/Rudimental Foy Vance - Never Let You Go - feat. Foy Vance.mp3
+Jul 31 21:55 : update: updating Driving 1/The Chemical Brothers - Hey Boy Hey Girl.mp3
+Jul 31 21:55 : update: updating Driving 1/The Preatures - Is This How You Feel_.mp3
+Jul 31 21:55 : update: updating Driving 1/The Wanted - Chasing The Sun.mp3
+Jul 31 21:55 : update: updating Driving 1/The Wanted - Glad You Came.mp3
+Jul 31 21:55 : update: updating Driving 1/Thomas Newson - Pallaroid - Original Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Totally Enormous Extinct Dinosaurs - Garden.mp3
+Jul 31 21:55 : update: updating Driving 1/U2 - Ordinary Love.mp3
+Jul 31 21:55 : update: updating Driving 1/Wilkinson - Afterglow.mp3
+Jul 31 21:55 : update: updating Driving 1/Avicii - Levels - Skrillex Remix.mp3
+Jul 31 21:55 : update: updating Driving 1/Bastille - Pompeii.mp3
+Jul 31 21:55 : update: updating Driving 1/Bombay Bicycle Club - Shuffle.mp3
+Jul 31 21:55 : update: updating Driving 1/Calvin Harris - Summer.mp3
+Jul 31 21:55 : update: updating Driving 1/Calvin Harris Alesso Hurts - Under Control.mp3
+Jul 31 21:55 : update: updating Driving 1/Calvin Harris Ellie Goulding - Outside.mp3
+Jul 31 21:55 : update: updating Driving 1/Calvin Harris John Newman - Blame.mp3
+Jul 31 21:55 : update: updating Driving 1/Capital Cities - Safe And Sound.mp3
+Jul 31 21:55 : update: updating Driving 1/Cold War Kids - Miracle Mile.mp3
+Jul 31 21:55 : update: updating Driving 1/Daft Punk Pharrell Williams - Lose Yourself to Dance.mp3
+Jul 31 21:55 : update: updating Driving 1/Darude - Sandstorm.mp3
+Jul 31 21:55 : update: updating Driving 1/Deorro - Lose It.mp3
+Jul 31 21:55 : update: updating Driving 1/Deorro - Yee [Mix Cut] - Original Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Florence + The Machine - Spectrum (Say My Name) - Calvin Harris Remix.mp3
+Jul 31 21:55 : update: updating Driving 1/Flux Pavilion - I Still Can't Stop.mp3
+Jul 31 21:55 : update: updating Driving 1/Fort Knox Five - Insight - A Skillz Remix.mp3
+Jul 31 21:55 : update: updating Driving 1/Hadouken! - M.A.D.mp3
+Jul 31 21:55 : update: updating Driving 1/Imagine Dragons - Demons.mp3
+Jul 31 21:55 : update: updating Driving 1/Infected Mushroom - Saeed.mp3
+Jul 31 21:55 : update: updating Driving 1/Justice - Genesis.mp3
+Jul 31 21:55 : update: updating Driving 1/KONGOS - Come with Me Now.mp3
+Jul 31 21:55 : update: updating Driving 1/Lana Del Rey Cedric Gervais - Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix.mp3
+Jul 31 21:55 : update: updating Driving 1/Alvaro Joey Dale - Ready for Action - Original Mix.mp3
+Jul 31 21:55 : update: updating Driving 1/Arctic Monkeys - Do I Wanna Know_.mp3
+Jul 31 21:55 : update: updating Driving 1/Audio - Nil By Mouth - Original Mix.mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/01 Faith.mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/02 Under Control (feat. Hurts).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/03 Blame (feat. John Newman).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/04 Love Now (feat. All About She).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/05 Slow Acid.mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/06 Outside (feat. Ellie Goulding).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/07 It Was You (with Firebeatz).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/08 Summer.mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/09 Overdrive (with Ummet Ozcan).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/10 Ecstacy (feat. Hurts).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/11 Pray To God (feat. HAIM).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/12 Open Wide (feat. Big Sean).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/13 Together (feat. Gwen Stefani).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/14 Burnin (with R3hab).mp3
+Jul 31 21:55 : update: updating Electronic/Calvin Harris - Motion [Amazone Purchased 320kbps MP3] By - iZoheb 2014/15 Dollar Signs (feat. Tinashe).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/01 - Next Year.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/02 - Kids Again (Radio Edit).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/03 - One More Day (Stay with Me).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/04 - 10 Million People.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/05 - Only Human.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/06 - Seen You.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/07 - Can't Face the World Alone.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/08 - Live Life Living.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/09 - All the Wrong Places (Radio Edit).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/10 - Take Me as I Am.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/11 - At Night.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD1/12 - Longest Goodbye.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/01 - New Friends.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/02 - Full Eclipse.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/03 - One Last Breath.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/04 - Innocent Minds.mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/05 - All the Wrong Places (Quintino Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/06 - All the Wrong Places (Calyx & TeeBee Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/07 - All the Wrong Places (Jack Beats Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/08 - All the Wrong Places (Starkillers Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/09 - Kids Again (MOTi Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/10 - Kids Again (Dimension Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/11 - Kids Again (Zed Bias Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Example - Live Life Living (Deluxe Edition) - 2014/CD2/12 - Kids Again (Critikal Miami Sunrise Remix).mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Chinchilla.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Dazed.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Death By Robot.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Ebb & Flow (feat. Tasha Baxter).mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Fiasco.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - In the Bin.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Last Requests (feat. Jenna G).mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Lonely Mountain.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Love Is All I Got (feat. Crystal Fighters).mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - No Grip.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Onstuh.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Ophelia (feat. Yadi).mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Orion.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Rat Trap.mp3
+Jul 31 21:55 : update: updating Electronic/Feed Me – Calamari Tuesday/Feed Me - Short Skirt.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/01. Kavinsky - Prélude.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/02. Kavinsky - Blizzard.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/03. Kavinsky - Protovision.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/04. Kavinsky - Odd Look.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/05. Kavinsky - Rampage.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/06. Kavinsky - Suburbia.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/07. Kavinsky - Testarossa Autodrive.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/08. Kavinsky - Deadcruiser.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/09. Kavinsky - Nightcall.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/10. Kavinsky - Grand Canyon.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/11. Kavinsky - First Blood.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/12. Kavinsky - Roadgame.mp3
+Jul 31 21:55 : update: updating Electronic/Kavinsky - Outrun [2013.MP3.320 Kbps]/13. Kavinsky - Endless.mp3
+Jul 31 21:55 : update: updating Electronic/outsider-pantone.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/01 - House of Pain.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/02 - Jen.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/03 - Second Hand Cigarette.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/04 - Girl On the Train.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/05 - Picture Me.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/06 - Lights Out.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/07 - Fishkill.mp3
+Jul 31 21:55 : update: updating Hot Action Cop - Listen Up! (2014)/08 - Pull the Trigger.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-All The Rage Back Home.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Ancient Ways.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Anywhere.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Breaker 1.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Everything is Wrong.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-My Blue Supreme.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-My Desire.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Same Town, New Story.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Tidal Wave.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/El Pintor (2014)/Interpol-Twice as Hard.mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/01 - Pioneer to the Falls - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/02 - No I in Threesome - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/03 - The Scale - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/04 - The Heinrich Maneuver - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/05 - Mammoth - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/06 - Pace Is the Trick - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/07 - All Fired Up - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/08 - Rest My Chemistry - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/09 - Who Do You Think - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/10 - Wrecking Ball - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/Interpol/Our Love (2007)/11 - The Lighthouse - (Musicfire.in).mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/02-Love & Meth.mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/03-What We Do.mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/04-Spike In My Veins.mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/05-Mass Hysteria.mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/08-Punishment Time.mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/09-Lullaby For A Sadist.mp3
+Jul 31 21:55 : update: updating Rock/2013 - The Paradigm Shift/12-Tell Me What You Want.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/01. Rock or Bust.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/02. Play Ball.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/03. Rock the Blues Away.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/04. Miss Adventure.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/05. Dogs of War.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/06. Got Some Rock & Roll Thunder.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/07. Hard Times.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/08. Baptism By Fire.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/09. Rock the House.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/10. Sweet Candy.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/11. Emission Control.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/01. High Voltage [original australian release].mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/02. Stick Around.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/03. Love Song.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/04. It's A Long Way To The Top (If You Wanna Rock 'N' Roll) [original australian release].mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/05. Rocker [original australian release].mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/06. Fling Thing.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/07. Dirty Deeds Done Dirt Cheap [original australian release].mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/08. Ain't No Fun (Waiting Around To Be A Millionare) [original australian release].mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/09. R.I.P. (Rock In Peace).mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/10. Carry Me Home.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/11. Crabsody In Blue.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/12. Cold Hearted Man.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/13. Who Made Who [12'' extended mix].mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/14. Snake Eye.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/15. Borrowed Time.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/16. Down On The Borderline.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/17. Big Gun.mp3
+Jul 31 21:55 : update: updating Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/18. Cyberspace.mp3
+Jul 31 21:55 : update: updating Rock/Arcade Fire/Arcade Fire - Afterlife.mp3
+Jul 31 21:55 : update: updating Rock/Arcade Fire/Arcade Fire - Reflektor.mp3
+Jul 31 21:55 : update: updating Rock/Arcade Fire/Arcade Fire - The Suburbs.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2007 - Favourite Worst Nightmare [Bonus Tracks]/01-Brainstorm.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/01-Do I Wanna Know .mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/02-R U Mine .mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/03-One For the Road.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/04-Arabella.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/05-I Want It All.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/06-No. 1 Party Anthem.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/07-Mad Sounds.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/08-Fireside.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/09-Why'd You Only Call Me When You're High .mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/10-Snap Out of It.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/11-Knee Socks.mp3
+Jul 31 21:55 : update: updating Rock/Arctic Monkeys/2013 - AM/12-I Wanna Be Yours.mp3
+Jul 31 21:55 : update: updating Rock/Balla/Balla - Montra (V. Krasnov).mp3
+Jul 31 21:55 : update: updating Rock/Billy Talent/2003 - Billy Talent/04-Line & Sinker.mp3
+Jul 31 21:55 : update: updating Rock/Billy Talent/2003 - Billy Talent/06-The Ex.mp3
+Jul 31 21:55 : update: updating Rock/Billy Talent/2003 - Billy Talent/10-Prisoners of Today.mp3
+Jul 31 21:55 : update: updating Rock/Billy Talent/2006 - Billy Talent II/01-Fallen Leaves.mp3
+Jul 31 21:55 : update: updating Rock/Black City/Black City - Fire (M. Mikhaylov).mp3
+Jul 31 21:55 : update: updating Rock/Black City/Black City - Here Comes The Rain.mp3
+Jul 31 21:55 : update: updating Rock/Black City/Black City - Summertime (V. Yavorsky).mp3
+Jul 31 21:55 : update: updating Rock/Black City/Black City - The One You Sacrifice (M. Nazarov).mp3
+Jul 31 21:55 : update: updating Rock/Black Stone Cherry/2006 - Black Stone Cherry/03-Lonely Train.mp3
+Jul 31 21:55 : update: updating Rock/Black Stone Cherry/2008 - Folklore and Superstition/01-Blind Man.mp3
+Jul 31 21:55 : update: updating Rock/Black Stone Cherry/2010 - Between The Devil & The Deep Blue Sea [Bonus Tracks]/01-White Trash Millionaire.mp3
+Jul 31 21:55 : update: updating Rock/Block Party/Bloc Party - Banquet.mp3
+Jul 31 21:55 : update: updating Rock/Bloodhound Gang/-The Ballad of Chasey Lain.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/01. Charlatan's Web Intro (Love Letter from a Booking Agent).mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/02. Never Coming Back.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/03. Wading Through the Dark.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/04. Bad Man.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/05. I'm Glad You're Dead.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/06. Pretty Little Things.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/07. Losing My Mind.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/08. School for Young Ladies.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/09. Strangle You.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/10. Rogue.mp3
+Jul 31 21:55 : update: updating Rock/Bobaflex/Bobaflex - Vampire.mp3
+Jul 31 21:55 : update: updating Rock/Breaking Benjamin/Breaking Benjamin - Failure.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/01-burn_halo-tear_it_down.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/02-burn_halo-up_from_the_ashes.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/03-burn_halo-stranded.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/04-burn_halo-threw_it_all_away.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/05-burn_halo-alone.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/06-burn_halo-stuck_in_a_rut.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/07-burn_halo-give_me_a_sign.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/08-burn_halo-dakota.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/09-burn_halo-rest_my_soul.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/10-burn_halo-i_wont_back_down.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/11-burn_halo-shine.mp3
+Jul 31 21:55 : update: updating Rock/Burn Halo/Up From The Ashes (2011)/12-burn_halo-bonus_track.mp3
+Jul 31 21:55 : update: updating Rock/Bush/1999 - Science Of Things, The/03-The Chemicals Between Us.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2001 - Golden State/01-solutions.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2001 - Golden State/03-speed kills.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2001 - Golden State/05-fugitive.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2001 - Golden State/09-land of the living.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2001 - Golden State/10-my engine is with you.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2011 - The Sea Of Memories/02-The Sound Of Winter.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2011 - The Sea Of Memories/04-The Afterlife.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2011 - The Sea Of Memories/06-Baby Come Home.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2011 - The Sea Of Memories/09-I Believe In You.mp3
+Jul 31 21:55 : update: updating Rock/Bush/2011 - The Sea Of Memories/10-Stand Up.mp3
+Jul 31 21:55 : update: updating Rock/Bush/Bush - Machinehead.mp3
+Jul 31 21:55 : update: updating Rock/Crossfade/Crossfade - Cold.mp3
+Jul 31 21:55 : update: updating Rock/Crossfade/Crossfade - No Giving Up.mp3
+Jul 31 21:55 : update: updating Rock/Deftones/Deftones - Romantic Dreams.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/01. Spaced Out.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/02. Desire.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/03. If Only She Was Lonely.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/04. Life Is So Electric.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/05. Tramp.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/06. Ain't No Gettin' Over You.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/07. Junk In The Trunk.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/08. Gangin' Up.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/09. Lucy Fur.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/10. Basf.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/11. Starflight United.mp3
+Jul 31 21:55 : update: updating Rock/Electric Boys/Starflight United (2014)/12. 59 High Mountain St..mp3
+Jul 31 21:55 : update: updating Rock/Finch/Finch - Anywhere But Here (2014).mp3
+Jul 31 21:55 : update: updating Rock/Finch/Finch - Play Dead (2014).mp3
+Jul 31 21:55 : update: updating Rock/Finger Eleven/Finger Eleven - Falling On.mp3
+Jul 31 21:55 : update: updating Rock/Finger Eleven/Finger Eleven - Wolves And Doors.mp3
+Jul 31 21:55 : update: updating Rock/Fingertight/2003 - In the Name of Progress/01-Fear In Me.mp3
+Jul 31 21:55 : update: updating Rock/Fire Red Empress/Fire Red Empress - Left Unspoken.mp3
+Jul 31 21:55 : update: updating Rock/Five Finger Death Punch/2009 - War Is The Answer/12-Bad Company.mp3
+Jul 31 21:55 : update: updating Rock/Five Finger Death Punch/2011 - American Capitalist [Deluxe Edition]/12-Under And Over It (Remix).mp3
+Jul 31 21:55 : update: updating Rock/Five Finger Death Punch/2011 - American Capitalist [Deluxe Edition]/13-The Pride (Remix).mp3
+Jul 31 21:55 : update: updating Rock/Five Finger Death Punch/2011 - American Capitalist [Deluxe Edition]/15-100 Ways To Hate (Remix).mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/01. Something From Nothing.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/02. The Feast and the Famine.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/03. Congregation.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/04. What Did I DoGod as My Witness.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/05. Outside.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/06. In the Clear.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/07. Subterranean.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/08. I Am a River.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/01 - Bridge Burning.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/02 - Rope.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/03 - Dear Rosemary.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/04 - White Limo.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/05 - Arlandria.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/06 - These Days.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/07 - Back & Forth.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/08 - A Matter Of Time.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/09 - Miss The Misery.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/10 - I Should Have Known.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/11 - Walk.mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD2/01 - Rope (Deadmaus5 Mix).mp3
+Jul 31 21:55 : update: added Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD2/02 - Better Off.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/01-Disappear Again.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/02-Stand Like Stone.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/03-Souvenirs.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/04-Don't Follow.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/05-New Way Of Living.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/06-Voodoo Me.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/07-Fear Alone.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/08-Wasted On You.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/09-Our Peace Someday.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/10-Desert Suicide.mp3
+Jul 31 21:55 : update: updating Rock/Furyon/2012 - Gravitas/11-Voodoo Me (Acoustic).mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/01 - Sangre por Sangre (Blood for Blood).mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/02 - Demons in the Dirt.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/03 - Soul Killer.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/04 - Moth.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/05 - Cross to Bier (Cradle of Bones).mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/06 - Dmf.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/07 - Gift.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/08 - Hush.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/09 - Say When.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/10 - Black December.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/11 - Feast or Famine.mp3
+Jul 31 21:55 : update: updating Rock/Hellyeah - Blood for Blood/12 - Hush (Acoustic Version).mp3
+Jul 31 21:55 : update: updating Rock/Jack White/Jack White - Would You Fight For My Love (J. Arfeeva).mp3
+Jul 31 21:55 : update: updating Rock/Jack White/The Raconteurs - Salute Your Solution.mp3
+Jul 31 21:55 : update: updating Rock/Jack White/The Raconteurs - Steady As She Goes.mp3
+Jul 31 21:55 : update: updating Rock/Jack White/The White Stripes - Fell in Love With a Girl.mp3
+Jul 31 21:55 : update: updating Rock/Klepht/Klepht - Videoclip Idade da Estupidez.mp3
+Jul 31 21:55 : update: updating Rock/Manchester Orchestra/Manchester Orchestra - Shake It Out (O. Abramov).mp3
+Jul 31 21:55 : update: updating Rock/Modest Mouse/Modest Mouse - Lampshades On Fire.mp3
+Jul 31 21:55 : update: updating Rock/Modest Mouse/Modest Mouse - The Ground Walks, With Time In A Box.mp3
+Jul 31 21:55 : update: updating Rock/Mudvayne/Mudvayne - Not Falling (корабль-призрак).mp3
+Jul 31 21:55 : update: updating Rock/Mundo Cão/Mundo Cão - O Caixão Da Razão(1).mp3
+Jul 31 21:55 : update: updating Rock/Mundo Cão/Mundo Cão - Ordena Que Te Ame.mp3
+Jul 31 21:55 : update: updating Rock/Our Lady Peace/Our Lady Peace - Superman's Dead.mp3
+Jul 31 21:55 : update: updating Rock/Phoenix/phoenix - 1901.mp3
+Jul 31 21:55 : update: updating Rock/Preatures/The Preatures - Is This How You Feel.mp3
+Jul 31 21:55 : update: updating Rock/Preatures/The Preatures - It Gets Better.mp3
+Jul 31 21:55 : update: updating Rock/Red Hot Chili Peppers/Red Hot Chili Peppers - Suck My Kiss.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/01 Out of the Black.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/02 Come On Over.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/03 Figure It Out.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/04 You Can Be So Cruel.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/05 Blood Hands.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/06 Little Monster.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/07 Loose Change.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/08 Careless.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/09 Ten Tonne Skeleton.mp3
+Jul 31 21:55 : update: updating Rock/Royal Blood - Royal Blood/10 Better Strangers.mp3
+Jul 31 21:55 : update: updating Rock/Saint Asonia/Saint Asonia - Better Place.mp3
+Jul 31 21:55 : update: updating Rock/Saint Asonia/Saint Asonia - Blow Me Wide Open (D. Akulshin).mp3
+Jul 31 21:55 : update: updating Rock/Shinedown/2010 - Diamond Eyes (Boom-Lay Boom-Lay Boom)/01-Diamond Eyes (Boom-Lay Boom-Lay Boom).mp3
+Jul 31 21:55 : update: updating Rock/Sister Sin/Sister Sin - Fight Song.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/01-slash-ghost_feat._ian_astbury.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/02-slash-crucify_the_dead_feat._ozzy_osbourne.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/03-slash-beautiful_dangerous_feat._fergie.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/04-slash-back_from_cali_feat._myles_kennedy.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/05-slash-promise_feat._chris_cornell.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/06-slash-by_the_sword_feat._andrew_stockdale_of_wolfmother.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/07-slash-gotten_feat._adam_levine.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/08-slash-doctor_alibi_feat._lemmy_kilmeister.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/09-slash-watch_this_dave_feat._dave_grohl_and_duff_mckagan.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/10-slash-i_hold_on_feat._kid_rock.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/11-slash-nothing_to_say_feat._m._shadows_of_avenged_sevenfold.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/12-slash-starlight_feat._myless_kennedy.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/13-slash-saint_is_a_sinner_too_feat._rocco_deluca.mp3
+Jul 31 21:55 : update: updating Rock/Slash/2010 - Slash/14-slash-were_all_gonna_die_feat._iggy_pop.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/01 Apocalyptic Love.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/02 One Last Thrill.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/03 Standing in the Sun.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/04 You're a Lie.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/05 No More Heroes.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/06 Halo.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/07 We Will Roam.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/08 Anastasia.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/09 Not for Me.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/10 Bad Rain.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/11 Hard & Fast.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/12 Far and Away.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/13 Shots Fired.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/14 Carolina (Bonus Track).mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/15 Crazy Life (Bonus Track).mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/01. World On Fire.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/02. Shadow Life.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/03. Automatic Overdrive.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/04. Wicked Stone.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/05. 30 Years To Life.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/06. Bent To Fly.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/07. Stone Blind.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/08. Too Far Gone.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/09. Beneath The Savage Sun.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/10. Withered Delilah.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/11. Battleground.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/12. Dirty Girl.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/13. Iris Of The Storm.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/14. Avalon.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/15. The Dissident.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/16. Safari Inn.mp3
+Jul 31 21:55 : update: updating Rock/Slash/Slash - World On Fire (2014)/17. The Unholy.mp3
+Jul 31 21:55 : update: updating Rock/Tara Perdida/Tara Perdida - Luta (A. Marychev).mp3
+Jul 31 21:55 : update: updating Rock/The Black Keys/2010 - Brothers/02-Next Girl.mp3
+Jul 31 21:55 : update: updating Rock/The Black Keys/2010 - Brothers/03-Tighten Up.mp3
+Jul 31 21:55 : update: updating Rock/The Black Keys/2010 - Brothers/04-Howlin' For You.mp3
+Jul 31 21:55 : update: updating Rock/The Black Keys/2010 - Brothers/08-Too Afraid to Love You.mp3
+Jul 31 21:55 : update: updating Rock/The Black Keys/2011 - El Camino/01-Lonely Boy.mp3
+Jul 31 21:55 : update: updating Rock/The Fashion/The Fashion - Mathematics.mp3
+Jul 31 21:55 : update: updating Rock/The Fashion/The Fashion - Roller Disco Inferno (P. Mikhaylov).mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 11 - The Kooks - Sweet Emotion.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 12 - The Kooks - Murderer.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 13 - The Kooks - Icons.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 14 - The Kooks - Keep Your Head Up.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 15 - The Kooks - Backstabber.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 01 - The Kooks - Around Town.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 02 - The Kooks - Forgive & Forget.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 03 - The Kooks - Westside.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 04 - The Kooks - See Me Now.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 05 - The Kooks - It Was London.mp3
+Jul 31 21:55 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 06 - The Kooks - Bad Habit.mp3
+Jul 31 21:56 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 07 - The Kooks - Down.mp3
+Jul 31 21:56 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 08 - The Kooks - Dreams.mp3
+Jul 31 21:56 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 09 - The Kooks - Are We Electric.mp3
+Jul 31 21:56 : update: added Rock/The Kooks/2014 - Listen/[Songira.com] 10 - The Kooks - Sunrise.mp3
+Jul 31 21:56 : update: updating Rock/The Offspring/2003 - Splinter/07-The Worst Hangover Ever.mp3
+Jul 31 21:56 : update: updating Rock/The Offspring/2012 - Days Go By/01-The Future Is Now.mp3
+Jul 31 21:56 : update: updating Rock/The Offspring/2012 - Days Go By/02-Secrets From The Underground.mp3
+Jul 31 21:56 : update: updating Rock/The Offspring/2012 - Days Go By/04-Turning Into You.mp3
+Jul 31 21:56 : update: updating Rock/The Smashing Pumpkins/The Smashing Pumpkins - Today.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/09 - Chances.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/01 - Tap Out.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/02 - All The Time.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/03 - One Way Trigger.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/04 - Welcome to Japan.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/05 - 80's Comedown Machine.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/06 - 50 50.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/07 - Slow Animals.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/08 - Partners in Crime.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/10 - Happy Ending.mp3
+Jul 31 21:56 : update: updating Rock/The Strokes/Comedown Machine (2013)/11 - Call It Fate Call It Karma.mp3
+Jul 31 21:56 : update: updating Rock/Them Crooked Vultures/Them Crooked Vultures - Dead End Friends.mp3
+Jul 31 21:56 : update: updating Rock/Them Crooked Vultures/Them Crooked Vultures - Mind Eraser, No Chaser.mp3
+Jul 31 21:56 : update: updating Rock/Them Crooked Vultures/Them Crooked Vultures - New Fang.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/01-the_brew-repeat.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/02-the_brew-eject.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/03-the_brew-mute.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/04-the_brew-pause.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/05-the_brew-shuffle.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/06-the_brew-fast_forward.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/07-the_brew-skip.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/08-the_brew-stop.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/09-the_brew-play.mp3
+Jul 31 21:56 : update: updating Rock/The_Brew-Control-2014-404/10-the_brew-rewind.mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/01 - Headstrong (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/02 - Echo (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/03 - Still Frame (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/04 - These Walls (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/05 - Made Of Glass (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/06 - The Game (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/07 - When All Is Said And Done (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/08 - Policy Of Truth (2011 Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/09 - Everything To Lose (Live).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/10 - Enigma (Live).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/11 - Perfect Dream (Demo).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/12 - Patience (Demo).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/13 - Headstrong (Clean).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/14 - Headstrong (Alexis K Dubstep Remix).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/15 - Headstrong (Die Krupps Remix).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/16 - Headstrong (Acoustic Version).mp3
+Jul 31 21:56 : update: updating Rock/Trapt - Headstrong (2011)/17 - Echo (Acoustic Version).mp3
+Jul 31 21:56 : update: updating Rock/Velvet Revolver/2007 - Libertad/03-Get Out The Door.mp3
+Jul 31 21:56 : update: updating Rock/Volbeat/ - Guitar Gangsters & Cadillac Blood/06-Maybellene I Hofteholder.mp3
+Jul 31 21:56 : update: updating Rock/Volbeat/2008 - Guitar Gangsters & Cadillac Blood/08-Still Counting.mp3
+Jul 31 21:56 : update: updating Rock/Volbeat/2010 - Beyond Hell-Above Heaven (Bonus Track Version)/09-A Warrior's Call.mp3
+Jul 31 21:56 : update: updating Rock/Volbeat/2013 - Outlaw Gentlemen & Shady Ladies/07-The Hangman's Body Count.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2005 - Wolfmother/01-Colossal.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2005 - Wolfmother/02-Woman.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2005 - Wolfmother/04-Pyramid.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2005 - Wolfmother/06-Joker & The Thief.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2005 - Wolfmother/07-Dimension.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2005 - Wolfmother/11-Withcraft.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/01-California Queen.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/02-New Moon Rising.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/07-Cosmic Egg.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/08-Far Away.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/09-Cosmonaut.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/10-Pilgrim.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/14-Caroline.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/15-Phoenix.mp3
+Jul 31 21:56 : update: updating Rock/Wolfmother/2009 - Cosmic Egg Deluxe Edition/16-Violence Of The Sun.mp3
+Jul 31 21:56 : player: played "Rock/Volbeat/ - Guitar Gangsters & Cadillac Blood/06-Maybellene I Hofteholder.mp3"
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 11 - The Kooks - Sweet Emotion.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 12 - The Kooks - Murderer.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 13 - The Kooks - Icons.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 14 - The Kooks - Keep Your Head Up.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 15 - The Kooks - Backstabber.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 01 - The Kooks - Around Town.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 02 - The Kooks - Forgive & Forget.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 03 - The Kooks - Westside.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 04 - The Kooks - See Me Now.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 05 - The Kooks - It Was London.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 06 - The Kooks - Bad Habit.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 07 - The Kooks - Down.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 08 - The Kooks - Dreams.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 09 - The Kooks - Are We Electric.mp3
+Jul 31 21:58 : update: updating Rock/The Kooks/2014 - Listen/[Songira.com] 10 - The Kooks - Sunrise.mp3
+Jul 31 21:59 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 01 - The Kooks - Around Town.mp3"
+Jul 31 22:03 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 01 - The Kooks - Around Town.mp3"
+Jul 31 22:06 : client: [2] closed
+Jul 31 22:06 : client: [4] opened from [::1]:41705
+Jul 31 22:06 : client: [5] opened from 127.0.0.1:39269
+Jul 31 22:06 : client: [4] closed
+Jul 31 22:06 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 03 - The Kooks - Westside.mp3"
+Jul 31 22:10 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 02 - The Kooks - Forgive & Forget.mp3"
+Jul 31 22:10 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/01. Something From Nothing.mp3"
+Jul 31 22:10 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/04 - White Limo.mp3"
+Jul 31 22:10 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/07 - Back & Forth.mp3"
+Jul 31 22:15 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/06 - These Days.mp3"
+Jul 31 22:20 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/05 - Arlandria.mp3"
+Jul 31 22:23 : client: [6] opened from [::1]:42036
+Jul 31 22:23 : client: [6] closed
+Aug 01 01:12 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/08 - A Matter Of Time.mp3"
+Aug 01 01:33 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/10 - I Should Have Known.mp3"
+Aug 01 01:34 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/07. Subterranean.mp3"
+Aug 01 01:34 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/02. The Feast and the Famine.mp3"
+Aug 01 01:34 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/11 - Walk.mp3"
+Aug 01 01:37 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/03 - Dear Rosemary.mp3"
+Aug 01 01:42 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/01. Something From Nothing.mp3"
+Aug 01 01:44 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/02. The Feast and the Famine.mp3"
+Aug 01 01:44 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/03. Congregation.mp3"
+Aug 01 01:46 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/04. What Did I DoGod as My Witness.mp3"
+Aug 01 01:51 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/05. Outside.mp3"
+Aug 01 01:51 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/06. In the Clear.mp3"
+Aug 01 01:52 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/07. Subterranean.mp3"
+Aug 01 01:53 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/08. I Am a River.mp3"
+Aug 01 01:56 : player: played "Rock/Black City/Black City - Summertime (V. Yavorsky).mp3"
+Aug 01 01:57 : player: played "Rock/Black City/Black City - The One You Sacrifice (M. Nazarov).mp3"
+Aug 01 01:58 : player: played "Rock/Black City/Black City - Fire (M. Mikhaylov).mp3"
+Aug 01 01:58 : player: played "Rock/Black City/Black City - Here Comes The Rain.mp3"
+Aug 01 01:59 : player: played "Rock/Bobaflex/Bobaflex - Vampire.mp3"
+Aug 01 01:59 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/01. Charlatan's Web Intro (Love Letter from a Booking Agent).mp3"
+Aug 01 01:59 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/02. Never Coming Back.mp3"
+Aug 01 02:00 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/03. Wading Through the Dark.mp3"
+Aug 01 02:01 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/04. Bad Man.mp3"
+Aug 01 02:01 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/05. I'm Glad You're Dead.mp3"
+Aug 01 02:02 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/06. Pretty Little Things.mp3"
+Aug 01 02:03 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/07. Losing My Mind.mp3"
+Aug 01 02:05 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/01-burn_halo-tear_it_down.mp3"
+Aug 01 02:05 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/02-burn_halo-up_from_the_ashes.mp3"
+Aug 01 02:06 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/03-burn_halo-stranded.mp3"
+Aug 01 02:06 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/04-burn_halo-threw_it_all_away.mp3"
+Aug 01 02:06 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/05-burn_halo-alone.mp3"
+Aug 01 02:07 : player: played "Rock/Burn Halo/Up From The Ashes (2011)/09-burn_halo-rest_my_soul.mp3"
+Aug 01 02:07 : player: played "Rock/Bush/2011 - The Sea Of Memories/04-The Afterlife.mp3"
+Aug 01 02:08 : client: [7] opened from [::1]:42504
+Aug 01 02:08 : player: played "Rock/Electric Boys/Starflight United (2014)/01. Spaced Out.mp3"
+Aug 01 02:08 : client: [7] closed
+Aug 01 02:09 : player: played "Rock/Electric Boys/Starflight United (2014)/02. Desire.mp3"
+Aug 01 02:11 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-All The Rage Back Home.mp3"
+Aug 01 02:12 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-My Desire.mp3"
+Aug 01 02:14 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Anywhere.mp3"
+Aug 01 02:17 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Same Town, New Story.mp3"
+Aug 01 02:19 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-My Blue Supreme.mp3"
+Aug 01 02:20 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Everything is Wrong.mp3"
+Aug 01 02:20 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Breaker 1.mp3"
+Aug 01 02:20 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Ancient Ways.mp3"
+Aug 01 02:21 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Tidal Wave.mp3"
+Aug 01 02:21 : player: played "Rock/Interpol/El Pintor (2014)/Interpol-Twice as Hard.mp3"
+Aug 01 02:22 : player: played "Rock/Interpol/Our Love (2007)/01 - Pioneer to the Falls - (Musicfire.in).mp3"
+Aug 01 02:23 : player: played "Rock/Interpol/Our Love (2007)/02 - No I in Threesome - (Musicfire.in).mp3"
+Aug 01 02:25 : player: played "Rock/Interpol/Our Love (2007)/03 - The Scale - (Musicfire.in).mp3"
+Aug 01 02:26 : player: played "Rock/Interpol/Our Love (2007)/04 - The Heinrich Maneuver - (Musicfire.in).mp3"
+Aug 01 02:27 : player: played "Rock/Interpol/Our Love (2007)/05 - Mammoth - (Musicfire.in).mp3"
+Aug 01 02:27 : player: played "Rock/Interpol/Our Love (2007)/06 - Pace Is the Trick - (Musicfire.in).mp3"
+Aug 01 02:27 : player: played "Rock/Interpol/Our Love (2007)/07 - All Fired Up - (Musicfire.in).mp3"
+Aug 01 02:27 : player: played "Rock/Interpol/Our Love (2007)/08 - Rest My Chemistry - (Musicfire.in).mp3"
+Aug 01 02:28 : player: played "Rock/Interpol/Our Love (2007)/09 - Who Do You Think - (Musicfire.in).mp3"
+Aug 01 02:28 : player: played "Rock/Interpol/Our Love (2007)/10 - Wrecking Ball - (Musicfire.in).mp3"
+Aug 01 02:28 : player: played "Rock/Interpol/Our Love (2007)/11 - The Lighthouse - (Musicfire.in).mp3"
+Aug 01 02:30 : player: played "Rock/Manchester Orchestra/Manchester Orchestra - Shake It Out (O. Abramov).mp3"
+Aug 01 02:32 : player: played "Rock/Royal Blood - Royal Blood/01 Out of the Black.mp3"
+Aug 01 02:32 : player: played "Rock/Royal Blood - Royal Blood/02 Come On Over.mp3"
+Aug 01 02:32 : player: played "Rock/Royal Blood - Royal Blood/03 Figure It Out.mp3"
+Aug 01 02:32 : player: played "Rock/Royal Blood - Royal Blood/04 You Can Be So Cruel.mp3"
+Aug 01 02:32 : player: played "Rock/Royal Blood - Royal Blood/05 Blood Hands.mp3"
+Aug 01 02:33 : player: played "Rock/Royal Blood - Royal Blood/06 Little Monster.mp3"
+Aug 01 02:34 : player: played "Rock/Saint Asonia/Saint Asonia - Better Place.mp3"
+Aug 01 02:34 : player: played "Rock/Saint Asonia/Saint Asonia - Blow Me Wide Open (D. Akulshin).mp3"
+Aug 01 02:35 : player: played "Rock/Sister Sin/Sister Sin - Fight Song.mp3"
+Aug 01 02:39 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 01 - The Kooks - Around Town.mp3"
+Aug 01 02:41 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 02 - The Kooks - Forgive & Forget.mp3"
+Aug 01 02:43 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 03 - The Kooks - Westside.mp3"
+Aug 01 02:43 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 04 - The Kooks - See Me Now.mp3"
+Aug 01 02:45 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 05 - The Kooks - It Was London.mp3"
+Aug 01 02:45 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 06 - The Kooks - Bad Habit.mp3"
+Aug 01 02:46 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 07 - The Kooks - Down.mp3"
+Aug 01 02:47 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 08 - The Kooks - Dreams.mp3"
+Aug 01 02:48 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 09 - The Kooks - Are We Electric.mp3"
+Aug 01 02:50 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 10 - The Kooks - Sunrise.mp3"
+Aug 01 02:51 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 11 - The Kooks - Sweet Emotion.mp3"
+Aug 01 02:51 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 12 - The Kooks - Murderer.mp3"
+Aug 01 02:52 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 13 - The Kooks - Icons.mp3"
+Aug 01 02:52 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 14 - The Kooks - Keep Your Head Up.mp3"
+Aug 01 02:52 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 15 - The Kooks - Backstabber.mp3"
+Aug 01 02:53 : player: played "Rock/The Strokes/Comedown Machine (2013)/01 - Tap Out.mp3"
+Aug 01 02:54 : player: played "Rock/The Strokes/Comedown Machine (2013)/02 - All The Time.mp3"
+Aug 01 02:56 : player: played "Rock/The Strokes/Comedown Machine (2013)/03 - One Way Trigger.mp3"
+Aug 01 02:57 : player: played "Rock/The Strokes/Comedown Machine (2013)/04 - Welcome to Japan.mp3"
+Aug 01 02:58 : player: played "Rock/The Strokes/Comedown Machine (2013)/05 - 80's Comedown Machine.mp3"
+Aug 01 02:58 : player: played "Rock/The Strokes/Comedown Machine (2013)/06 - 50 50.mp3"
+Aug 01 02:58 : player: played "Rock/The Strokes/Comedown Machine (2013)/07 - Slow Animals.mp3"
+Aug 01 02:59 : player: played "Rock/The Strokes/Comedown Machine (2013)/08 - Partners in Crime.mp3"
+Aug 01 02:59 : player: played "Rock/The Strokes/Comedown Machine (2013)/09 - Chances.mp3"
+Aug 01 03:00 : player: played "Rock/The Strokes/Comedown Machine (2013)/10 - Happy Ending.mp3"
+Aug 01 03:00 : player: played "Rock/The Strokes/Comedown Machine (2013)/11 - Call It Fate Call It Karma.mp3"
+Aug 01 03:00 : client: [8] opened from [::1]:42615
+Aug 01 03:00 : player: played "Rock/Them Crooked Vultures/Them Crooked Vultures - Mind Eraser, No Chaser.mp3"
+Aug 01 03:00 : client: [8] closed
+Aug 01 03:01 : client: [9] opened from [::1]:42616
+Aug 01 03:01 : player: played "Rock/Them Crooked Vultures/Them Crooked Vultures - New Fang.mp3"
+Aug 01 03:01 : client: [9] closed
+Aug 01 03:01 : player: played "Rock/Them Crooked Vultures/Them Crooked Vultures - Dead End Friends.mp3"
+Aug 01 03:01 : player: played "Rock/Trapt - Headstrong (2011)/01 - Headstrong (2011 Version).mp3"
+Aug 01 03:01 : player: played "Rock/Trapt - Headstrong (2011)/02 - Echo (2011 Version).mp3"
+Aug 01 03:02 : player: played "Rock/Trapt - Headstrong (2011)/03 - Still Frame (2011 Version).mp3"
+Aug 01 03:02 : player: played "Rock/Trapt - Headstrong (2011)/04 - These Walls (2011 Version).mp3"
+Aug 01 03:03 : player: played "Rock/Trapt - Headstrong (2011)/05 - Made Of Glass (2011 Version).mp3"
+Aug 01 03:04 : player: played "Rock/Trapt - Headstrong (2011)/06 - The Game (2011 Version).mp3"
+Aug 01 03:05 : player: played "Rock/Trapt - Headstrong (2011)/07 - When All Is Said And Done (2011 Version).mp3"
+Aug 01 03:07 : player: played "Rock/Trapt - Headstrong (2011)/08 - Policy Of Truth (2011 Version).mp3"
+Aug 01 03:07 : player: played "Rock/Trapt - Headstrong (2011)/09 - Everything To Lose (Live).mp3"
+Aug 01 03:07 : player: played "Rock/Trapt - Headstrong (2011)/10 - Enigma (Live).mp3"
+Aug 01 03:07 : player: played "Rock/Trapt - Headstrong (2011)/11 - Perfect Dream (Demo).mp3"
+Aug 01 03:07 : player: played "Rock/Volbeat/ - Guitar Gangsters & Cadillac Blood/06-Maybellene I Hofteholder.mp3"
+Aug 01 03:07 : player: played "Rock/Volbeat/2008 - Guitar Gangsters & Cadillac Blood/08-Still Counting.mp3"
+Aug 01 19:05 : avahi: Service 'Music Player' successfully established.
+Aug 01 19:05 : client: [0] opened from [::1]:36271
+Aug 01 19:05 : client: [1] opened from 127.0.0.1:52455
+Aug 01 19:05 : client: [0] closed
+Aug 01 19:05 : client: [2] opened from [::1]:36273
+Aug 01 19:05 : client: [2] closed
+Aug 01 19:05 : client: [3] opened from [::1]:36274
+Aug 01 19:05 : player: played "Rock/Trapt - Headstrong (2011)/11 - Perfect Dream (Demo).mp3"
+Aug 01 19:05 : client: [3] closed
+Aug 01 19:05 : client: [4] opened from [::1]:36275
+Aug 01 19:05 : client: [4] closed
+Aug 01 19:05 : client: [5] opened from [::1]:36276
+Aug 01 19:05 : player: played "Rock/Trapt - Headstrong (2011)/11 - Perfect Dream (Demo).mp3"
+Aug 01 19:05 : client: [5] closed
+Aug 01 19:05 : client: [6] opened from [::1]:36277
+Aug 01 19:05 : player: played "Rock/Trapt - Headstrong (2011)/12 - Patience (Demo).mp3"
+Aug 01 19:05 : client: [6] closed
+Aug 01 19:05 : client: [7] opened from [::1]:36278
+Aug 01 19:05 : client: [7] closed
+Aug 01 21:50 : avahi: Service 'Music Player' successfully established.
+Aug 01 21:50 : client: [0] opened from 127.0.0.1:34414
+Aug 01 21:50 : client: [1] opened from 127.0.0.1:34415
+Aug 01 21:50 : client: [0] closed
+Aug 01 21:50 : client: [2] opened from [::1]:41106
+Aug 01 21:50 : player: played "Rock/Trapt - Headstrong (2011)/11 - Perfect Dream (Demo).mp3"
+Aug 01 21:53 : player: played "Rock/Black City/Black City - Summertime (V. Yavorsky).mp3"
+Aug 01 21:56 : player: played "Rock/Black City/Black City - The One You Sacrifice (M. Nazarov).mp3"
+Aug 01 22:00 : player: played "Rock/Black City/Black City - Fire (M. Mikhaylov).mp3"
+Aug 01 22:04 : player: played "Rock/Black City/Black City - Here Comes The Rain.mp3"
+Aug 01 22:10 : player: played "Rock/2013 - The Paradigm Shift/02-Love & Meth.mp3"
+Aug 01 22:13 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/09. Rock the House.mp3"
+Aug 01 22:16 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 08 - The Kooks - Dreams.mp3"
+Aug 01 22:21 : player: played "Rock/Arcade Fire/Arcade Fire - The Suburbs.mp3"
+Aug 01 22:26 : player: played "Rock/Foo Fighters/Foo Fighters - 2014 - Sonic Highways/03. Congregation.mp3"
+Aug 01 22:29 : player: played "Rock/Finger Eleven/Finger Eleven - Wolves And Doors.mp3"
+Aug 01 22:35 : player: played "Rock/Furyon/2012 - Gravitas/08-Wasted On You.mp3"
+Aug 01 22:40 : player: played "Rock/Trapt - Headstrong (2011)/09 - Everything To Lose (Live).mp3"
+Aug 01 22:43 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/05. Dogs of War.mp3"
+Aug 01 22:47 : player: played "Rock/Saint Asonia/Saint Asonia - Better Place.mp3"
+Aug 01 22:51 : player: played "Rock/Hellyeah - Blood for Blood/07 - Gift.mp3"
+Aug 01 22:55 : player: played "Rock/Bush/2001 - Golden State/03-speed kills.mp3"
+Aug 01 22:59 : player: played "Rock/Hellyeah - Blood for Blood/12 - Hush (Acoustic Version).mp3"
+Aug 01 23:02 : player: played "Rock/Furyon/2012 - Gravitas/06-Voodoo Me.mp3"
+Aug 01 23:07 : player: played "Rock/Foo Fighters/Foo Fighters - Wasting Light (2CD Deluxe Edition) 2011 (320 kbps)/CD1/08 - A Matter Of Time.mp3"
+Aug 01 23:10 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/08. Baptism By Fire.mp3"
+Aug 01 23:15 : player: played "Rock/Jack White/Jack White - Would You Fight For My Love (J. Arfeeva).mp3"
+Aug 01 23:17 : player: played "Rock/The Kooks/2014 - Listen/[Songira.com] 07 - The Kooks - Down.mp3"
+Aug 01 23:21 : player: played "Rock/Sister Sin/Sister Sin - Fight Song.mp3"
+Aug 02 13:34 : player: played "Rock/Wolfmother/2005 - Wolfmother/11-Withcraft.mp3"
+Aug 02 13:37 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD1/01. Rock or Bust.mp3"
+Aug 02 13:41 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/17. Big Gun.mp3"
+Aug 02 13:46 : player: played "Rock/Electric Boys/Starflight United (2014)/09. Lucy Fur.mp3"
+Aug 02 13:50 : player: played "Rock/Hellyeah - Blood for Blood/10 - Black December.mp3"
+Aug 02 13:54 : player: played "Rock/Bobaflex/Bobaflex - Charlatan's Web (2013)/03. Wading Through the Dark.mp3"
+Aug 02 13:57 : player: played "Rock/Royal Blood - Royal Blood/09 Ten Tonne Skeleton.mp3"
+Aug 02 14:00 : player: played "Rock/The Black Keys/2010 - Brothers/02-Next Girl.mp3"
+Aug 02 14:05 : player: played "Rock/Wolfmother/2005 - Wolfmother/01-Colossal.mp3"
+Aug 02 14:07 : player: played "Rock/Slash/Slash - Apocalyptic Love [Deluxe Version] (2012)/03 Standing in the Sun.mp3"
+Aug 02 14:07 : player: played "Rock/Arctic Monkeys/2013 - AM/07-Mad Sounds.mp3"
+Aug 02 14:07 : player: played "Rock/Slash/2010 - Slash/08-slash-doctor_alibi_feat._lemmy_kilmeister.mp3"
+Aug 02 14:07 : player: played "Rock/AC DC/ACDC – Rock Or Bust (Limited Edition) (2014) 320 KBPS/CD2 - Backtracks - Studio Rarities (2014)/14. Snake Eye.mp3"
+Aug 02 14:07 : player: played "Rock/The Strokes/Comedown Machine (2013)/10 - Happy Ending.mp3"
+Aug 02 14:07 : player: played "Rock/Trapt - Headstrong (2011)/13 - Headstrong (Clean).mp3"
+Aug 02 14:19 : client: [3] opened from [::1]:43441
+Aug 02 14:19 : client: [3] closed
+Aug 02 14:40 : client: [1] closed
+Aug 02 14:40 : client: [4] opened from 127.0.0.1:37086
+Aug 02 14:40 : client: [5] opened from 127.0.0.1:37087
+Aug 02 14:40 : client: [4] closed
+Aug 02 14:40 : client: [5] closed
+Aug 02 14:40 : client: [6] opened from 127.0.0.1:37089
+Aug 02 14:40 : client: [7] opened from 127.0.0.1:37090
+Aug 02 14:40 : client: [6] closed
+Aug 02 14:40 : client: [7] closed
+Aug 02 14:40 : client: [8] opened from 127.0.0.1:37091
+Aug 02 14:40 : client: [9] opened from 127.0.0.1:37092
+Aug 02 14:40 : client: [8] closed
+Aug 02 14:43 : client: [9] closed
+Aug 02 14:43 : client: [10] opened from 127.0.0.1:37136
+Aug 02 14:43 : client: [11] opened from 127.0.0.1:37137
+Aug 02 14:43 : client: [10] closed
+Aug 02 14:43 : client: [11] closed
+Aug 02 14:43 : client: [12] opened from 127.0.0.1:37139
+Aug 02 14:43 : client: [13] opened from 127.0.0.1:37140
+Aug 02 14:43 : client: [12] closed

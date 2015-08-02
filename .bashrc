@@ -39,6 +39,8 @@ function cl
 
 PS1='[\u@\h \W]\$ '
 
+export BROWSER=firefox
+
 ###ALIAS
 alias simplerss='python /home/bruno/Documents/GitDevelopment/simpleRSS/main.py'
 alias doom1="prboom -width 1600 -height 870 -iwad ~/.doom/Doom1.WAD"
