@@ -37,11 +37,8 @@ URxvt.url-select.underline: true
 
 
 URxvt.letterSpace: 0
-! URxvt.font:     xft:DejaVuSansMono:size=9:antialias=true
-! URxvt.boldFont: xft:DejaVuSansMono:bold:size=9:antialias=true
 URxvt.font:     xft:DejaVuSansMono for Powerline:size=9:antialias=true
 URxvt.boldFont: xft:DejaVuSansMono for Powerline:bold:size=9:antialias=true
-
 ! Base16 Twilight
 ! Scheme: David Hart (http://hart-dev.com)
 

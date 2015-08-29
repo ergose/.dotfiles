@@ -5,6 +5,7 @@ call pathogen#helptags()
 call pathogen#infect()
 
 syntax on
+set encoding=utf-8
 set hidden "esconder buffers em vez de os fechar
 set tabstop=4 "1 tab sao 4 espacos
 set backspace=indent,eol,start
