@@ -9,8 +9,8 @@ pad_percents 3
 cpu_avg_samples 2
 TEXT
 [
-${if_running spotify}{"full_text":"spotify: ${exec .scripts/spotify-nowplaying.sh }","color":"\#89b859"},${endif}
-${if_mpd_playing}{"full_text": "mpd: ${mpd_artist} - ${mpd_title}","color":"\#89b859"},${endif}
+{"full_text":"${exec .scripts/nowplaying.sh }","color":"\#89b859"},
+#${if_mpd_playing}{"full_text": "mpd: ${mpd_artist} - ${mpd_title}","color":"\#89b859"},${endif}
 {"full_text": "cpu: ${cpu}% ${if_existing /sys/devices/platform/coretemp.0/hwmon/hwmon1/temp2_input}(${execi 1200 echo $(($(cat /sys/devices/platform/coretemp.0/hwmon/hwmon1/temp2_input) / 1000))} C)${else}(${execi 1200 echo $(($(cat /sys/devices/platform/coretemp.0/hwmon/hwmon2/temp2_input) / 1000))} C)${endif}", "color":"\#cf6a4c"},
 
 {"full_text": "ram: $mem","color":"\#cda869"},

@@ -8,6 +8,5 @@ then
 	pkill unclutter &
 else 
 	notify-send "Auto-Hide" -a "Mouse" &
-	#unclutter -idle 1 -grab &
-	unclutter -idle 1 -root -grab &
+	unclutter --timeout 1 &
 fi	   
