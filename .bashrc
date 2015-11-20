@@ -51,7 +51,7 @@ alias ixg=".scripts/termbinget.sh"
 alias rms='shred -n 100 -u -v -z'
 alias player='mpd; ncmpcpp'
 alias sftp_vmlampp='sshfs vmuser@192.168.73.131:/var/www /home/quark/mnt/vm_lampp'
-alias ftp_strangequark='curlftpfs ftp.strangequark.tk /home/quark/mnt/strangequark -o user=u437760725:z3xoqbd4' 
+alias ftp_vodafone='curlftpfs 192.168.1.254 /home/quark/mnt/router -o user=upgrade:Th0ms0n!'
 alias cups_start='sudo systemctl start org.cups.cupsd.service'
 alias cups_stop='sudo systemctl stop org.cups.cupsd.service'
 alias vime='vim -u .vimencryptrc -x'
